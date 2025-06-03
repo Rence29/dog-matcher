@@ -11,7 +11,7 @@ MODEL_FILE = 'random_forest_dog_matcher_model.pkl'
 ENCODED_FEATURES_FILE = 'encoded_features.txt'
 PORT = 5000 # Choose an available port (make sure it's not in use by other applications)
 
-# --- Load the Trained Model and Feature List ---
+# --- Load the Trained Model and Feature List test ---
 # These are loaded only once when the API starts, for efficiency.
 try:
     model = joblib.load(MODEL_FILE)
