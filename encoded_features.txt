@@ -1,0 +1,14 @@
+Dog_ID
+Dog_Age_Years
+Behavior_Calm
+Behavior_Energetic
+Behavior_Independent
+Size_Medium
+Size_Small
+Health_Condition_Healthy
+Health_Condition_Special Needs
+Housing_Type_Condo
+Housing_Type_House
+Lifestyle_Sedentary
+Family_Composition_With Kids
+Pet_Experience_Yes

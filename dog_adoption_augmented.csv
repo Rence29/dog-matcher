@@ -1,0 +1,1509 @@
+Dog_ID,Breed,Dog_Age,Behavior,Size,Health_Condition,Housing_Type,Lifestyle,Family_Composition,Pet_Experience,Match_Category
+1,Aspin,2 years,Energetic,Large,Healthy,House,Active,No Kids,Yes,Good Match ✅
+2,Aspin,5 years,Calm,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+5,Aspin,5 years,Aggressive,Large,Healthy,House,Sedentary,No Kids,Yes,Bad Match ❌
+7,Aspin,3 years,Calm,Medium,Healthy,Condo,Sedentary,No Kids,Yes,Good Match ✅
+8,Aspin,7 years,Independent,Large,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+10,Aspin,1.5 years,Energetic,Small,Healthy,House,Active,No Kids,Yes,Good Match ✅
+11,Aspin,8 years,Calm,Large,Chronic Illness,Condo,Sedentary,No Kids,No,Bad Match ❌
+15,Aspin,2 years,Aggressive,Large,Healthy,House,Active,No Kids,No,Bad Match ❌
+1000,Aspin,1.5 years,Independent,Large,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+1001,Aspin,8 years,Calm,Large,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+1002,Aspin,8 years,Aggressive,Medium,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1003,Aspin,5 years,Aggressive,Medium,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+1004,Aspin,3 years,Energetic,Medium,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+1005,Aspin,8 years,Calm,Small,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1006,Aspin,5 years,Aggressive,Medium,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+1007,Aspin,8 years,Aggressive,Large,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+1008,Aspin,7 years,Independent,Large,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1009,Aspin,3 years,Calm,Small,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+1010,Aspin,1.5 years,Independent,Large,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1011,Aspin,7 years,Energetic,Small,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1012,Aspin,1.5 years,Energetic,Large,Chronic Illness,House,Sedentary,With Kids,No,Bad Match ❌
+1013,Aspin,2 years,Energetic,Small,Chronic Illness,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1014,Aspin,2 years,Aggressive,Large,Chronic Illness,House,Sedentary,With Kids,Yes,Good Match ✅
+1015,Aspin,5 years,Independent,Small,Healthy,Apartment,Active,No Kids,No,Good Match ✅
+1016,Aspin,8 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+1017,Aspin,5 years,Energetic,Small,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+1018,Aspin,2 years,Independent,Large,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1019,Aspin,2 years,Energetic,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1020,Aspin,2 years,Calm,Large,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1021,Aspin,2 years,Independent,Medium,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1022,Aspin,5 years,Aggressive,Large,Chronic Illness,House,Active,No Kids,Yes,Bad Match ❌
+1023,Aspin,5 years,Calm,Medium,Special Needs,Condo,Active,No Kids,No,Good Match ✅
+1024,Aspin,7 years,Energetic,Medium,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1025,Aspin,5 years,Aggressive,Large,Healthy,Apartment,Active,No Kids,No,Good Match ✅
+1026,Aspin,1.5 years,Independent,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1027,Aspin,1.5 years,Calm,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+1028,Aspin,7 years,Calm,Small,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1029,Aspin,2 years,Energetic,Medium,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+1030,Aspin,5 years,Independent,Medium,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1031,Aspin,7 years,Energetic,Small,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1032,Aspin,1.5 years,Independent,Large,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1033,Aspin,5 years,Independent,Medium,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+1034,Aspin,2 years,Energetic,Small,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1035,Aspin,2 years,Aggressive,Small,Chronic Illness,Condo,Active,No Kids,Yes,Good Match ✅
+1036,Aspin,3 years,Energetic,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+1037,Aspin,1.5 years,Independent,Small,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1038,Aspin,8 years,Energetic,Medium,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1039,Aspin,8 years,Energetic,Medium,Special Needs,House,Active,No Kids,No,Bad Match ❌
+1040,Aspin,3 years,Energetic,Small,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1041,Aspin,7 years,Calm,Medium,Special Needs,House,Active,No Kids,No,Bad Match ❌
+1042,Aspin,5 years,Calm,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+1043,Aspin,5 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1044,Aspin,5 years,Energetic,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1045,Aspin,1.5 years,Aggressive,Small,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1046,Aspin,3 years,Energetic,Large,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+1047,Aspin,3 years,Aggressive,Small,Chronic Illness,House,Active,No Kids,Yes,Good Match ✅
+1048,Aspin,5 years,Calm,Large,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+1049,Aspin,8 years,Calm,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1050,Aspin,8 years,Independent,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1051,Aspin,5 years,Independent,Large,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1052,Aspin,2 years,Energetic,Medium,Chronic Illness,Apartment,Sedentary,With Kids,No,Good Match ✅
+1053,Aspin,3 years,Aggressive,Small,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+1054,Aspin,5 years,Energetic,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1055,Aspin,8 years,Aggressive,Medium,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+1056,Aspin,3 years,Energetic,Large,Healthy,House,Active,With Kids,Yes,Good Match ✅
+1057,Aspin,3 years,Independent,Large,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1058,Aspin,8 years,Independent,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+1059,Aspin,7 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1060,Aspin,5 years,Aggressive,Small,Healthy,Condo,Active,No Kids,No,Good Match ✅
+1061,Aspin,5 years,Calm,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1062,Aspin,8 years,Calm,Medium,Special Needs,Condo,Active,No Kids,No,Good Match ✅
+1063,Aspin,1.5 years,Energetic,Small,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1064,Aspin,3 years,Independent,Large,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1065,Aspin,7 years,Energetic,Small,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1066,Aspin,5 years,Aggressive,Medium,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+1067,Aspin,3 years,Independent,Medium,Special Needs,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1068,Aspin,1.5 years,Energetic,Small,Chronic Illness,Condo,Active,With Kids,No,Bad Match ❌
+1069,Aspin,3 years,Aggressive,Medium,Special Needs,Apartment,Active,No Kids,No,Good Match ✅
+1070,Aspin,3 years,Aggressive,Medium,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1071,Aspin,8 years,Independent,Small,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1072,Aspin,8 years,Calm,Small,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+1073,Aspin,2 years,Calm,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1074,Aspin,8 years,Energetic,Large,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+1075,Aspin,2 years,Energetic,Large,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+1076,Aspin,3 years,Energetic,Medium,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+1077,Aspin,3 years,Independent,Small,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1078,Aspin,2 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1079,Aspin,7 years,Aggressive,Medium,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1080,Aspin,7 years,Aggressive,Small,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1081,Aspin,2 years,Energetic,Small,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+1082,Aspin,2 years,Energetic,Medium,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+1083,Aspin,7 years,Calm,Large,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1084,Aspin,5 years,Independent,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+1085,Aspin,8 years,Independent,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+1086,Aspin,3 years,Energetic,Small,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+1087,Aspin,3 years,Calm,Small,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1088,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1089,Aspin,8 years,Energetic,Small,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+1090,Aspin,7 years,Aggressive,Small,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1091,Aspin,7 years,Calm,Small,Special Needs,Condo,Active,No Kids,No,Good Match ✅
+1092,Aspin,1.5 years,Calm,Small,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1093,Aspin,5 years,Aggressive,Small,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1094,Aspin,7 years,Calm,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1095,Aspin,1.5 years,Energetic,Medium,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1096,Aspin,3 years,Aggressive,Medium,Special Needs,Condo,Sedentary,No Kids,No,Bad Match ❌
+1097,Aspin,3 years,Independent,Medium,Special Needs,Condo,Sedentary,No Kids,No,Bad Match ❌
+1098,Aspin,2 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1099,Aspin,8 years,Independent,Large,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+1100,Aspin,3 years,Aggressive,Large,Special Needs,Condo,Sedentary,No Kids,No,Bad Match ❌
+1101,Aspin,5 years,Calm,Large,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+1102,Aspin,3 years,Aggressive,Large,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1103,Aspin,3 years,Calm,Medium,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+1104,Aspin,8 years,Aggressive,Small,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1105,Aspin,2 years,Independent,Small,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1106,Aspin,5 years,Calm,Small,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1107,Aspin,1.5 years,Aggressive,Large,Healthy,House,Sedentary,With Kids,Yes,Bad Match ❌
+1108,Aspin,1.5 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1109,Aspin,3 years,Aggressive,Large,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1110,Aspin,2 years,Independent,Medium,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1111,Aspin,5 years,Calm,Medium,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+1112,Aspin,5 years,Aggressive,Small,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1113,Aspin,1.5 years,Calm,Medium,Special Needs,House,Active,No Kids,No,Bad Match ❌
+1114,Aspin,3 years,Energetic,Small,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+1115,Aspin,7 years,Energetic,Small,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1116,Aspin,5 years,Aggressive,Small,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1117,Aspin,7 years,Independent,Large,Healthy,Condo,Active,With Kids,No,Bad Match ❌
+1118,Aspin,8 years,Calm,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1119,Aspin,2 years,Energetic,Large,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1120,Aspin,7 years,Energetic,Medium,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1121,Aspin,2 years,Energetic,Medium,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+1122,Aspin,5 years,Independent,Medium,Healthy,House,Active,With Kids,No,Good Match ✅
+1123,Aspin,7 years,Calm,Medium,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1124,Aspin,1.5 years,Independent,Large,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+1125,Aspin,2 years,Calm,Medium,Chronic Illness,Condo,Active,No Kids,Yes,Good Match ✅
+1126,Aspin,3 years,Aggressive,Medium,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1127,Aspin,2 years,Calm,Large,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1128,Aspin,1.5 years,Energetic,Large,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+1129,Aspin,2 years,Calm,Large,Healthy,House,Active,No Kids,No,Good Match ✅
+1130,Aspin,5 years,Energetic,Medium,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+1131,Aspin,1.5 years,Energetic,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1132,Aspin,5 years,Aggressive,Small,Healthy,House,Active,No Kids,Yes,Good Match ✅
+1133,Aspin,2 years,Independent,Large,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+1134,Aspin,1.5 years,Independent,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+1135,Aspin,5 years,Energetic,Large,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+1136,Aspin,7 years,Calm,Small,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1137,Aspin,2 years,Energetic,Large,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+1138,Aspin,3 years,Independent,Large,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1139,Aspin,2 years,Calm,Small,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1140,Aspin,8 years,Independent,Medium,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+1141,Aspin,8 years,Energetic,Small,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+1142,Aspin,1.5 years,Energetic,Small,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+1143,Aspin,1.5 years,Energetic,Small,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1144,Aspin,8 years,Calm,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1145,Aspin,2 years,Calm,Large,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1146,Aspin,2 years,Independent,Large,Chronic Illness,House,Sedentary,With Kids,Yes,Good Match ✅
+1147,Aspin,1.5 years,Aggressive,Large,Chronic Illness,House,Sedentary,With Kids,Yes,Good Match ✅
+1148,Aspin,2 years,Aggressive,Large,Chronic Illness,House,Active,No Kids,Yes,Bad Match ❌
+1149,Aspin,2 years,Aggressive,Small,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+1150,Aspin,2 years,Independent,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+1151,Aspin,2 years,Aggressive,Small,Healthy,House,Active,With Kids,No,Good Match ✅
+1152,Aspin,1.5 years,Independent,Large,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+1153,Aspin,1.5 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1154,Aspin,3 years,Independent,Small,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1155,Aspin,7 years,Calm,Large,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1156,Aspin,7 years,Aggressive,Medium,Special Needs,Apartment,Active,No Kids,No,Good Match ✅
+1157,Aspin,8 years,Aggressive,Medium,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+1158,Aspin,3 years,Calm,Medium,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+1159,Aspin,3 years,Independent,Large,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+1160,Aspin,5 years,Energetic,Small,Chronic Illness,Condo,Active,With Kids,No,Bad Match ❌
+1161,Aspin,8 years,Independent,Large,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1162,Aspin,1.5 years,Aggressive,Small,Healthy,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1163,Aspin,5 years,Energetic,Medium,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+1164,Aspin,8 years,Energetic,Small,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1165,Aspin,2 years,Aggressive,Large,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1166,Aspin,5 years,Calm,Medium,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+1167,Aspin,5 years,Energetic,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1168,Aspin,7 years,Calm,Medium,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1169,Aspin,3 years,Energetic,Medium,Healthy,House,Active,No Kids,No,Good Match ✅
+1170,Aspin,3 years,Calm,Large,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+1171,Aspin,7 years,Independent,Medium,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1172,Aspin,3 years,Aggressive,Large,Healthy,House,Active,With Kids,No,Good Match ✅
+1173,Aspin,5 years,Calm,Medium,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1174,Aspin,8 years,Aggressive,Large,Chronic Illness,House,Active,With Kids,Yes,Bad Match ❌
+1175,Aspin,1.5 years,Independent,Large,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+1176,Aspin,1.5 years,Independent,Medium,Special Needs,House,Active,With Kids,No,Good Match ✅
+1177,Aspin,1.5 years,Energetic,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1178,Aspin,2 years,Energetic,Small,Healthy,House,Active,No Kids,No,Bad Match ❌
+1179,Aspin,3 years,Calm,Small,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+1180,Aspin,1.5 years,Aggressive,Medium,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1181,Aspin,1.5 years,Aggressive,Small,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+1182,Aspin,8 years,Independent,Large,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1183,Aspin,1.5 years,Independent,Medium,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1184,Aspin,5 years,Energetic,Large,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1185,Aspin,2 years,Energetic,Large,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1186,Aspin,2 years,Aggressive,Medium,Chronic Illness,House,Active,No Kids,Yes,Bad Match ❌
+1187,Aspin,1.5 years,Energetic,Small,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+1188,Aspin,3 years,Energetic,Small,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1189,Aspin,3 years,Energetic,Small,Special Needs,House,Sedentary,With Kids,No,Good Match ✅
+1190,Aspin,3 years,Energetic,Large,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+1191,Aspin,2 years,Independent,Large,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+1192,Aspin,5 years,Aggressive,Medium,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1193,Aspin,2 years,Independent,Small,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1194,Aspin,1.5 years,Calm,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+1195,Aspin,8 years,Independent,Small,Chronic Illness,House,Sedentary,With Kids,No,Bad Match ❌
+1196,Aspin,7 years,Calm,Large,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1197,Aspin,7 years,Independent,Small,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1198,Aspin,1.5 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1199,Aspin,5 years,Aggressive,Large,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1200,Aspin,1.5 years,Calm,Large,Special Needs,House,Sedentary,With Kids,Yes,Bad Match ❌
+1201,Aspin,8 years,Energetic,Medium,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1202,Aspin,3 years,Aggressive,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1203,Aspin,8 years,Calm,Small,Chronic Illness,Condo,Active,No Kids,Yes,Bad Match ❌
+1204,Aspin,5 years,Independent,Large,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1205,Aspin,1.5 years,Calm,Small,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+1206,Aspin,2 years,Independent,Large,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+1207,Aspin,2 years,Independent,Medium,Special Needs,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1208,Aspin,8 years,Independent,Small,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+1209,Aspin,8 years,Calm,Medium,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1210,Aspin,7 years,Calm,Small,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+1211,Aspin,3 years,Independent,Small,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+1212,Aspin,2 years,Independent,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+1213,Aspin,3 years,Calm,Small,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1214,Aspin,7 years,Aggressive,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1215,Aspin,3 years,Calm,Small,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+1216,Aspin,5 years,Independent,Small,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1217,Aspin,3 years,Energetic,Medium,Special Needs,House,Active,With Kids,Yes,Good Match ✅
+1218,Aspin,5 years,Energetic,Small,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1219,Aspin,3 years,Energetic,Large,Chronic Illness,Condo,Active,No Kids,Yes,Good Match ✅
+1220,Aspin,7 years,Calm,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1221,Aspin,3 years,Calm,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1222,Aspin,7 years,Aggressive,Medium,Healthy,Condo,Active,With Kids,No,Good Match ✅
+1223,Aspin,3 years,Independent,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1224,Aspin,3 years,Independent,Medium,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+1225,Aspin,5 years,Calm,Large,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1226,Aspin,7 years,Energetic,Large,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+1227,Aspin,1.5 years,Independent,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1228,Aspin,8 years,Independent,Small,Chronic Illness,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1229,Aspin,5 years,Calm,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1230,Aspin,7 years,Aggressive,Small,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+1231,Aspin,3 years,Aggressive,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1232,Aspin,3 years,Aggressive,Large,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+1233,Aspin,1.5 years,Calm,Small,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+1234,Aspin,3 years,Aggressive,Small,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1235,Aspin,7 years,Calm,Medium,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1236,Aspin,2 years,Aggressive,Large,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+1237,Aspin,3 years,Independent,Medium,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+1238,Aspin,5 years,Calm,Small,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1239,Aspin,3 years,Energetic,Small,Chronic Illness,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1240,Aspin,7 years,Calm,Medium,Healthy,House,Active,With Kids,No,Bad Match ❌
+1241,Aspin,8 years,Independent,Medium,Chronic Illness,Condo,Active,No Kids,Yes,Good Match ✅
+1242,Aspin,3 years,Calm,Small,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1243,Aspin,2 years,Energetic,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1244,Aspin,8 years,Energetic,Medium,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+1245,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+1246,Aspin,5 years,Independent,Large,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+1247,Aspin,8 years,Aggressive,Medium,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1248,Aspin,5 years,Energetic,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1249,Aspin,2 years,Aggressive,Small,Special Needs,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1250,Aspin,2 years,Aggressive,Small,Chronic Illness,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1251,Aspin,3 years,Calm,Small,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1252,Aspin,3 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1253,Aspin,2 years,Aggressive,Large,Healthy,House,Active,With Kids,No,Good Match ✅
+1254,Aspin,2 years,Independent,Small,Special Needs,Condo,Sedentary,No Kids,No,Bad Match ❌
+1255,Aspin,8 years,Calm,Large,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+1256,Aspin,3 years,Aggressive,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+1257,Aspin,1.5 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1258,Aspin,5 years,Independent,Small,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+1259,Aspin,5 years,Independent,Large,Chronic Illness,House,Active,No Kids,No,Bad Match ❌
+1260,Aspin,5 years,Energetic,Small,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+1261,Aspin,1.5 years,Energetic,Small,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1262,Aspin,5 years,Aggressive,Small,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+1263,Aspin,5 years,Aggressive,Medium,Healthy,House,Sedentary,No Kids,Yes,Bad Match ❌
+1264,Aspin,1.5 years,Independent,Large,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+1265,Aspin,7 years,Independent,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1266,Aspin,8 years,Energetic,Medium,Chronic Illness,Condo,Active,No Kids,Yes,Bad Match ❌
+1267,Aspin,2 years,Calm,Medium,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1268,Aspin,8 years,Calm,Medium,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+1269,Aspin,7 years,Calm,Large,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1270,Aspin,8 years,Energetic,Medium,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1271,Aspin,7 years,Aggressive,Large,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1272,Aspin,5 years,Energetic,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1273,Aspin,8 years,Energetic,Small,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+1274,Aspin,3 years,Aggressive,Medium,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1275,Aspin,2 years,Independent,Large,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+1276,Aspin,5 years,Calm,Small,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1277,Aspin,3 years,Independent,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1278,Aspin,7 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+1279,Aspin,5 years,Energetic,Large,Chronic Illness,Condo,Sedentary,No Kids,No,Bad Match ❌
+1280,Aspin,3 years,Calm,Large,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1281,Aspin,5 years,Energetic,Large,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1282,Aspin,3 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1283,Aspin,2 years,Independent,Large,Chronic Illness,Apartment,Sedentary,With Kids,No,Good Match ✅
+1284,Aspin,1.5 years,Energetic,Large,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1285,Aspin,1.5 years,Aggressive,Small,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1286,Aspin,2 years,Aggressive,Small,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1287,Aspin,8 years,Aggressive,Medium,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1288,Aspin,5 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1289,Aspin,8 years,Energetic,Large,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1290,Aspin,7 years,Energetic,Medium,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1291,Aspin,7 years,Calm,Medium,Chronic Illness,House,Active,With Kids,Yes,Bad Match ❌
+1292,Aspin,1.5 years,Independent,Large,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1293,Aspin,3 years,Aggressive,Small,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+1294,Aspin,2 years,Aggressive,Large,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1295,Aspin,2 years,Calm,Medium,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+1296,Aspin,8 years,Independent,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1297,Aspin,7 years,Aggressive,Large,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1298,Aspin,2 years,Independent,Medium,Chronic Illness,House,Active,No Kids,Yes,Bad Match ❌
+1299,Aspin,8 years,Calm,Small,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+1300,Aspin,1.5 years,Calm,Medium,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1301,Aspin,1.5 years,Aggressive,Small,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+1302,Aspin,7 years,Energetic,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1303,Aspin,3 years,Calm,Small,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+1304,Aspin,2 years,Aggressive,Medium,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+1305,Aspin,7 years,Independent,Small,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+1306,Aspin,7 years,Aggressive,Medium,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+1307,Aspin,8 years,Energetic,Small,Chronic Illness,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1308,Aspin,7 years,Aggressive,Medium,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+1309,Aspin,3 years,Aggressive,Large,Healthy,House,Active,With Kids,No,Bad Match ❌
+1310,Aspin,5 years,Calm,Medium,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+1311,Aspin,2 years,Energetic,Medium,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1312,Aspin,2 years,Independent,Large,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1313,Aspin,1.5 years,Independent,Small,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+1314,Aspin,1.5 years,Independent,Small,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1315,Aspin,3 years,Independent,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1316,Aspin,8 years,Independent,Medium,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+1317,Aspin,7 years,Independent,Large,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1318,Aspin,5 years,Energetic,Medium,Healthy,House,Active,With Kids,No,Bad Match ❌
+1319,Aspin,2 years,Independent,Large,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1320,Aspin,5 years,Aggressive,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1321,Aspin,7 years,Independent,Large,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1322,Aspin,2 years,Energetic,Small,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1323,Aspin,8 years,Aggressive,Large,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+1324,Aspin,7 years,Independent,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1325,Aspin,8 years,Energetic,Large,Special Needs,House,Active,No Kids,Yes,Good Match ✅
+1326,Aspin,5 years,Calm,Medium,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1327,Aspin,8 years,Aggressive,Medium,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1328,Aspin,5 years,Independent,Medium,Healthy,House,Sedentary,No Kids,Yes,Bad Match ❌
+1329,Aspin,5 years,Energetic,Large,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+1330,Aspin,1.5 years,Calm,Small,Special Needs,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1331,Aspin,2 years,Aggressive,Large,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+1332,Aspin,8 years,Energetic,Large,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+1333,Aspin,2 years,Aggressive,Large,Healthy,House,Active,With Kids,No,Good Match ✅
+1334,Aspin,5 years,Aggressive,Large,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+1335,Aspin,2 years,Independent,Large,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+1336,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+1337,Aspin,5 years,Energetic,Large,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+1338,Aspin,5 years,Aggressive,Small,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1339,Aspin,3 years,Independent,Medium,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+1340,Aspin,8 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1341,Aspin,7 years,Independent,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+1342,Aspin,5 years,Energetic,Large,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1343,Aspin,8 years,Independent,Small,Chronic Illness,Condo,Active,No Kids,Yes,Bad Match ❌
+1344,Aspin,8 years,Independent,Large,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1345,Aspin,1.5 years,Calm,Large,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+1346,Aspin,7 years,Independent,Large,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1347,Aspin,5 years,Calm,Small,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+1348,Aspin,8 years,Independent,Large,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+1349,Aspin,7 years,Calm,Medium,Special Needs,House,Active,With Kids,No,Good Match ✅
+1350,Aspin,5 years,Calm,Small,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1351,Aspin,3 years,Independent,Medium,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1352,Aspin,2 years,Energetic,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1353,Aspin,2 years,Independent,Small,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1354,Aspin,7 years,Calm,Large,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1355,Aspin,2 years,Energetic,Large,Healthy,House,Active,With Kids,No,Good Match ✅
+1356,Aspin,8 years,Energetic,Medium,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1357,Aspin,3 years,Energetic,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1358,Aspin,1.5 years,Independent,Medium,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1359,Aspin,5 years,Calm,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1360,Aspin,5 years,Independent,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1361,Aspin,8 years,Aggressive,Medium,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1362,Aspin,8 years,Aggressive,Small,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1363,Aspin,1.5 years,Independent,Medium,Special Needs,House,Sedentary,With Kids,No,Good Match ✅
+1364,Aspin,2 years,Independent,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1365,Aspin,5 years,Aggressive,Small,Chronic Illness,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1366,Aspin,3 years,Calm,Medium,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+1367,Aspin,8 years,Independent,Small,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1368,Aspin,1.5 years,Aggressive,Small,Healthy,Condo,Sedentary,With Kids,No,Good Match ✅
+1369,Aspin,5 years,Aggressive,Small,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1370,Aspin,7 years,Independent,Medium,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+1371,Aspin,1.5 years,Aggressive,Medium,Healthy,Apartment,Sedentary,No Kids,No,Good Match ✅
+1372,Aspin,8 years,Energetic,Large,Chronic Illness,House,Active,No Kids,Yes,Bad Match ❌
+1373,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1374,Aspin,1.5 years,Energetic,Small,Special Needs,House,Active,No Kids,No,Good Match ✅
+1375,Aspin,3 years,Aggressive,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1376,Aspin,5 years,Independent,Small,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1377,Aspin,3 years,Aggressive,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1378,Aspin,7 years,Independent,Large,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+1379,Aspin,1.5 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+1380,Aspin,8 years,Independent,Large,Healthy,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1381,Aspin,3 years,Aggressive,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+1382,Aspin,1.5 years,Aggressive,Small,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+1383,Aspin,5 years,Energetic,Medium,Chronic Illness,House,Sedentary,With Kids,Yes,Good Match ✅
+1384,Aspin,3 years,Aggressive,Large,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1385,Aspin,7 years,Calm,Large,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+1386,Aspin,2 years,Independent,Large,Special Needs,Apartment,Active,No Kids,No,Good Match ✅
+1387,Aspin,2 years,Aggressive,Small,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1388,Aspin,7 years,Calm,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1389,Aspin,3 years,Aggressive,Small,Special Needs,House,Active,No Kids,No,Good Match ✅
+1390,Aspin,7 years,Aggressive,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+1391,Aspin,2 years,Independent,Large,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1392,Aspin,2 years,Energetic,Small,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+1393,Aspin,1.5 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1394,Aspin,2 years,Calm,Small,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+1395,Aspin,1.5 years,Independent,Large,Special Needs,House,Active,No Kids,No,Good Match ✅
+1396,Aspin,3 years,Aggressive,Small,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+1397,Aspin,2 years,Calm,Small,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1398,Aspin,7 years,Independent,Large,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+1399,Aspin,7 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1400,Aspin,7 years,Aggressive,Small,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+1401,Aspin,2 years,Independent,Small,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1402,Aspin,5 years,Independent,Small,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1403,Aspin,7 years,Independent,Small,Special Needs,House,Active,No Kids,No,Good Match ✅
+1404,Aspin,3 years,Energetic,Small,Healthy,Apartment,Active,No Kids,No,Good Match ✅
+1405,Aspin,2 years,Calm,Small,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1406,Aspin,8 years,Energetic,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1407,Aspin,8 years,Independent,Small,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1408,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1409,Aspin,1.5 years,Energetic,Small,Healthy,House,Active,No Kids,Yes,Good Match ✅
+1410,Aspin,8 years,Independent,Small,Chronic Illness,Condo,Active,No Kids,No,Bad Match ❌
+1411,Aspin,5 years,Independent,Small,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1412,Aspin,3 years,Calm,Small,Special Needs,House,Sedentary,With Kids,Yes,Bad Match ❌
+1413,Aspin,8 years,Energetic,Small,Chronic Illness,Apartment,Sedentary,With Kids,No,Good Match ✅
+1414,Aspin,1.5 years,Calm,Large,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1415,Aspin,2 years,Independent,Large,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1416,Aspin,1.5 years,Energetic,Large,Chronic Illness,Condo,Sedentary,No Kids,No,Bad Match ❌
+1417,Aspin,1.5 years,Independent,Small,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1418,Aspin,7 years,Energetic,Large,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+1419,Aspin,7 years,Calm,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1420,Aspin,8 years,Calm,Large,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1421,Aspin,3 years,Calm,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1422,Aspin,5 years,Energetic,Small,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+1423,Aspin,3 years,Energetic,Small,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1424,Aspin,7 years,Independent,Small,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+1425,Aspin,5 years,Energetic,Small,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1426,Aspin,1.5 years,Aggressive,Small,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1427,Aspin,8 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1428,Aspin,7 years,Independent,Small,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+1429,Aspin,5 years,Energetic,Small,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+1430,Aspin,8 years,Calm,Small,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+1431,Aspin,5 years,Calm,Small,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1432,Aspin,8 years,Independent,Large,Healthy,House,Active,No Kids,Yes,Good Match ✅
+1433,Aspin,8 years,Aggressive,Small,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1434,Aspin,1.5 years,Aggressive,Medium,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1435,Aspin,1.5 years,Aggressive,Small,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1436,Aspin,2 years,Aggressive,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1437,Aspin,7 years,Energetic,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+1438,Aspin,7 years,Independent,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1439,Aspin,1.5 years,Independent,Large,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+1440,Aspin,2 years,Energetic,Large,Healthy,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1441,Aspin,3 years,Independent,Large,Special Needs,House,Sedentary,With Kids,No,Good Match ✅
+1442,Aspin,1.5 years,Energetic,Small,Healthy,House,Active,With Kids,No,Bad Match ❌
+1443,Aspin,8 years,Independent,Medium,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1444,Aspin,1.5 years,Aggressive,Large,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+1445,Aspin,8 years,Aggressive,Large,Special Needs,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1446,Aspin,8 years,Energetic,Medium,Healthy,House,Active,No Kids,Yes,Good Match ✅
+1447,Aspin,2 years,Calm,Small,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1448,Aspin,2 years,Aggressive,Small,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1449,Aspin,2 years,Calm,Small,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1450,Aspin,1.5 years,Energetic,Large,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+1451,Aspin,5 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1452,Aspin,3 years,Aggressive,Large,Special Needs,House,Active,No Kids,No,Bad Match ❌
+1453,Aspin,8 years,Calm,Large,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1454,Aspin,2 years,Aggressive,Large,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1455,Aspin,5 years,Independent,Medium,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1456,Aspin,7 years,Energetic,Large,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+1457,Aspin,3 years,Aggressive,Medium,Healthy,Condo,Sedentary,With Kids,No,Good Match ✅
+1458,Aspin,1.5 years,Independent,Small,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1459,Aspin,1.5 years,Calm,Medium,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1460,Aspin,2 years,Calm,Large,Healthy,Condo,Sedentary,With Kids,No,Good Match ✅
+1461,Aspin,1.5 years,Independent,Medium,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1462,Aspin,1.5 years,Energetic,Medium,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+1463,Aspin,3 years,Aggressive,Small,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+1464,Aspin,7 years,Aggressive,Medium,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1465,Aspin,1.5 years,Independent,Large,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1466,Aspin,5 years,Independent,Large,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1467,Aspin,3 years,Independent,Small,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+1468,Aspin,8 years,Energetic,Medium,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+1469,Aspin,2 years,Calm,Medium,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1470,Aspin,2 years,Calm,Large,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+1471,Aspin,8 years,Independent,Small,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+1472,Aspin,5 years,Aggressive,Medium,Healthy,Apartment,Sedentary,No Kids,No,Good Match ✅
+1473,Aspin,7 years,Aggressive,Large,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+1474,Aspin,3 years,Aggressive,Large,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1475,Aspin,8 years,Independent,Medium,Healthy,Apartment,Sedentary,No Kids,No,Good Match ✅
+1476,Aspin,3 years,Calm,Medium,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1477,Aspin,1.5 years,Calm,Large,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1478,Aspin,8 years,Energetic,Medium,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1479,Aspin,1.5 years,Independent,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1480,Aspin,1.5 years,Energetic,Medium,Special Needs,Condo,Sedentary,No Kids,No,Bad Match ❌
+1481,Aspin,7 years,Aggressive,Small,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+1482,Aspin,2 years,Calm,Medium,Special Needs,House,Active,No Kids,Yes,Good Match ✅
+1483,Aspin,3 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1484,Aspin,7 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1485,Aspin,2 years,Aggressive,Medium,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+1486,Aspin,8 years,Aggressive,Small,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1487,Aspin,7 years,Energetic,Small,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+1488,Aspin,3 years,Independent,Medium,Healthy,House,Active,With Kids,No,Bad Match ❌
+1489,Aspin,5 years,Calm,Large,Special Needs,Apartment,Active,No Kids,No,Good Match ✅
+1490,Aspin,5 years,Independent,Large,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1491,Aspin,3 years,Calm,Small,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+1492,Aspin,1.5 years,Energetic,Small,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1493,Aspin,8 years,Energetic,Large,Chronic Illness,House,Active,No Kids,No,Bad Match ❌
+1494,Aspin,3 years,Calm,Small,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+1495,Aspin,2 years,Calm,Small,Healthy,Condo,Active,With Kids,No,Bad Match ❌
+1496,Aspin,2 years,Calm,Small,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1497,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1498,Aspin,1.5 years,Independent,Small,Healthy,Condo,Active,No Kids,No,Good Match ✅
+1499,Aspin,2 years,Calm,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1500,Aspin,8 years,Aggressive,Small,Special Needs,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1501,Aspin,5 years,Aggressive,Medium,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1502,Aspin,7 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1503,Aspin,8 years,Aggressive,Large,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1504,Aspin,7 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1505,Aspin,8 years,Calm,Small,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1506,Aspin,8 years,Independent,Small,Healthy,Condo,Active,With Kids,No,Bad Match ❌
+1507,Aspin,1.5 years,Aggressive,Small,Special Needs,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1508,Aspin,3 years,Independent,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1509,Aspin,8 years,Energetic,Large,Special Needs,Condo,Sedentary,With Kids,No,Bad Match ❌
+1510,Aspin,2 years,Independent,Medium,Healthy,House,Active,No Kids,Yes,Good Match ✅
+1511,Aspin,2 years,Energetic,Large,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1512,Aspin,8 years,Independent,Small,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1513,Aspin,2 years,Independent,Medium,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+1514,Aspin,2 years,Independent,Large,Chronic Illness,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1515,Aspin,3 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1516,Aspin,3 years,Calm,Medium,Special Needs,House,Active,No Kids,No,Bad Match ❌
+1517,Aspin,7 years,Aggressive,Medium,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1518,Aspin,3 years,Calm,Medium,Healthy,House,Active,With Kids,No,Good Match ✅
+1519,Aspin,3 years,Independent,Small,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+1520,Aspin,1.5 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1521,Aspin,7 years,Independent,Large,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1522,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+1523,Aspin,2 years,Independent,Small,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1524,Aspin,3 years,Energetic,Large,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+1525,Aspin,8 years,Aggressive,Small,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+1526,Aspin,2 years,Aggressive,Small,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+1527,Aspin,8 years,Independent,Small,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1528,Aspin,3 years,Energetic,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1529,Aspin,5 years,Calm,Large,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1530,Aspin,5 years,Aggressive,Large,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+1531,Aspin,5 years,Calm,Medium,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1532,Aspin,1.5 years,Energetic,Large,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+1533,Aspin,2 years,Energetic,Large,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+1534,Aspin,5 years,Energetic,Small,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1535,Aspin,1.5 years,Energetic,Large,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1536,Aspin,3 years,Independent,Medium,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1537,Aspin,2 years,Independent,Medium,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+1538,Aspin,7 years,Calm,Large,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1539,Aspin,2 years,Energetic,Small,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1540,Aspin,1.5 years,Aggressive,Small,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+1541,Aspin,2 years,Calm,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1542,Aspin,8 years,Energetic,Small,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1543,Aspin,1.5 years,Calm,Small,Healthy,House,Active,With Kids,No,Good Match ✅
+1544,Aspin,7 years,Energetic,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1545,Aspin,7 years,Calm,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1546,Aspin,1.5 years,Calm,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1547,Aspin,1.5 years,Aggressive,Small,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+1548,Aspin,7 years,Energetic,Small,Chronic Illness,House,Active,With Kids,Yes,Bad Match ❌
+1549,Aspin,3 years,Aggressive,Large,Chronic Illness,Apartment,Sedentary,With Kids,No,Good Match ✅
+1550,Aspin,8 years,Energetic,Medium,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+1551,Aspin,2 years,Calm,Medium,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+1552,Aspin,8 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1553,Aspin,3 years,Aggressive,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1554,Aspin,2 years,Energetic,Medium,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1555,Aspin,8 years,Calm,Medium,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1556,Aspin,5 years,Independent,Medium,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1557,Aspin,3 years,Independent,Small,Healthy,Apartment,Sedentary,No Kids,No,Good Match ✅
+1558,Aspin,7 years,Energetic,Small,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+1559,Aspin,8 years,Calm,Small,Healthy,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1560,Aspin,5 years,Calm,Small,Special Needs,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1561,Aspin,8 years,Energetic,Large,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+1562,Aspin,8 years,Independent,Medium,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+1563,Aspin,2 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+1564,Aspin,1.5 years,Energetic,Medium,Special Needs,House,Active,No Kids,No,Good Match ✅
+1565,Aspin,3 years,Independent,Medium,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+1566,Aspin,5 years,Independent,Large,Chronic Illness,Condo,Active,No Kids,Yes,Good Match ✅
+1567,Aspin,5 years,Independent,Large,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1568,Aspin,3 years,Energetic,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+1569,Aspin,7 years,Independent,Small,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1570,Aspin,7 years,Calm,Large,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1571,Aspin,5 years,Independent,Medium,Special Needs,House,Active,With Kids,No,Good Match ✅
+1572,Aspin,7 years,Energetic,Large,Healthy,House,Active,With Kids,No,Bad Match ❌
+1573,Aspin,3 years,Calm,Medium,Chronic Illness,House,Sedentary,With Kids,No,Bad Match ❌
+1574,Aspin,8 years,Energetic,Small,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+1575,Aspin,7 years,Aggressive,Small,Healthy,House,Active,With Kids,No,Good Match ✅
+1576,Aspin,3 years,Calm,Large,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+1577,Aspin,7 years,Independent,Large,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1578,Aspin,3 years,Independent,Small,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1579,Aspin,5 years,Energetic,Medium,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+1580,Aspin,1.5 years,Aggressive,Medium,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1581,Aspin,5 years,Energetic,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+1582,Aspin,3 years,Calm,Small,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+1583,Aspin,7 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1584,Aspin,1.5 years,Independent,Small,Special Needs,House,Active,No Kids,No,Bad Match ❌
+1585,Aspin,1.5 years,Energetic,Large,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1586,Aspin,5 years,Calm,Large,Chronic Illness,Condo,Active,No Kids,No,Bad Match ❌
+1587,Aspin,2 years,Independent,Large,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1588,Aspin,3 years,Aggressive,Medium,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1589,Aspin,8 years,Calm,Small,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+1590,Aspin,7 years,Energetic,Medium,Healthy,Apartment,Active,No Kids,No,Good Match ✅
+1591,Aspin,5 years,Energetic,Small,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1592,Aspin,1.5 years,Calm,Medium,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1593,Aspin,2 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1594,Aspin,1.5 years,Aggressive,Large,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1595,Aspin,1.5 years,Calm,Small,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1596,Aspin,5 years,Energetic,Medium,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1597,Aspin,7 years,Energetic,Large,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+1598,Aspin,8 years,Aggressive,Large,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+1599,Aspin,1.5 years,Independent,Small,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+1600,Aspin,1.5 years,Calm,Large,Healthy,Condo,Active,No Kids,No,Good Match ✅
+1601,Aspin,5 years,Aggressive,Small,Healthy,House,Sedentary,No Kids,Yes,Bad Match ❌
+1602,Aspin,3 years,Independent,Medium,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1603,Aspin,5 years,Calm,Large,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+1604,Aspin,5 years,Energetic,Medium,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+1605,Aspin,8 years,Independent,Medium,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1606,Aspin,2 years,Independent,Small,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+1607,Aspin,7 years,Aggressive,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1608,Aspin,2 years,Independent,Small,Chronic Illness,House,Active,No Kids,No,Bad Match ❌
+1609,Aspin,8 years,Independent,Large,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+1610,Aspin,7 years,Independent,Medium,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1611,Aspin,7 years,Independent,Large,Healthy,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1612,Aspin,3 years,Calm,Small,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1613,Aspin,2 years,Calm,Large,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1614,Aspin,2 years,Calm,Large,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1615,Aspin,7 years,Aggressive,Medium,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1616,Aspin,8 years,Calm,Large,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1617,Aspin,5 years,Calm,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1618,Aspin,5 years,Calm,Large,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1619,Aspin,7 years,Independent,Medium,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1620,Aspin,2 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1621,Aspin,7 years,Independent,Small,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1622,Aspin,5 years,Aggressive,Small,Healthy,House,Active,No Kids,No,Bad Match ❌
+1623,Aspin,8 years,Independent,Small,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1624,Aspin,7 years,Aggressive,Small,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1625,Aspin,3 years,Energetic,Medium,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1626,Aspin,1.5 years,Independent,Large,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1627,Aspin,7 years,Energetic,Small,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1628,Aspin,5 years,Independent,Medium,Chronic Illness,House,Active,With Kids,Yes,Bad Match ❌
+1629,Aspin,7 years,Calm,Large,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+1630,Aspin,1.5 years,Independent,Medium,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+1631,Aspin,3 years,Calm,Medium,Special Needs,House,Active,No Kids,No,Bad Match ❌
+1632,Aspin,8 years,Calm,Medium,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+1633,Aspin,3 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,No,Good Match ✅
+1634,Aspin,7 years,Calm,Large,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1635,Aspin,8 years,Calm,Large,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1636,Aspin,8 years,Calm,Large,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+1637,Aspin,5 years,Independent,Small,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1638,Aspin,5 years,Energetic,Large,Healthy,Condo,Active,With Kids,No,Good Match ✅
+1639,Aspin,2 years,Aggressive,Medium,Special Needs,House,Active,No Kids,Yes,Good Match ✅
+1640,Aspin,8 years,Aggressive,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1641,Aspin,8 years,Calm,Medium,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1642,Aspin,5 years,Independent,Small,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1643,Aspin,5 years,Energetic,Small,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1644,Aspin,8 years,Calm,Large,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1645,Aspin,1.5 years,Energetic,Small,Chronic Illness,House,Active,No Kids,No,Bad Match ❌
+1646,Aspin,1.5 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1647,Aspin,2 years,Independent,Medium,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1648,Aspin,8 years,Energetic,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1649,Aspin,1.5 years,Aggressive,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+1650,Aspin,5 years,Calm,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1651,Aspin,8 years,Calm,Small,Healthy,Apartment,Sedentary,No Kids,No,Good Match ✅
+1652,Aspin,1.5 years,Aggressive,Small,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+1653,Aspin,8 years,Independent,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1654,Aspin,1.5 years,Calm,Medium,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1655,Aspin,2 years,Aggressive,Large,Healthy,House,Sedentary,With Kids,Yes,Bad Match ❌
+1656,Aspin,2 years,Aggressive,Large,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1657,Aspin,8 years,Independent,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1658,Aspin,3 years,Independent,Medium,Special Needs,House,Active,No Kids,Yes,Good Match ✅
+1659,Aspin,7 years,Aggressive,Small,Special Needs,House,Active,No Kids,No,Bad Match ❌
+1660,Aspin,1.5 years,Energetic,Large,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+1661,Aspin,2 years,Calm,Small,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1662,Aspin,1.5 years,Energetic,Medium,Chronic Illness,Condo,Active,No Kids,No,Bad Match ❌
+1663,Aspin,7 years,Calm,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1664,Aspin,5 years,Aggressive,Large,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+1665,Aspin,2 years,Calm,Large,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+1666,Aspin,8 years,Aggressive,Medium,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1667,Aspin,1.5 years,Aggressive,Small,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+1668,Aspin,7 years,Independent,Medium,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1669,Aspin,8 years,Calm,Large,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1670,Aspin,5 years,Calm,Small,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1671,Aspin,2 years,Energetic,Small,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+1672,Aspin,5 years,Aggressive,Small,Healthy,Condo,Active,With Kids,No,Bad Match ❌
+1673,Aspin,5 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+1674,Aspin,2 years,Aggressive,Small,Chronic Illness,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1675,Aspin,2 years,Calm,Large,Chronic Illness,Condo,Sedentary,No Kids,No,Good Match ✅
+1676,Aspin,7 years,Calm,Small,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+1677,Aspin,8 years,Aggressive,Small,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1678,Aspin,1.5 years,Energetic,Small,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1679,Aspin,3 years,Aggressive,Large,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1680,Aspin,5 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+1681,Aspin,3 years,Calm,Small,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1682,Aspin,8 years,Calm,Large,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1683,Aspin,2 years,Aggressive,Large,Healthy,House,Active,No Kids,No,Good Match ✅
+1684,Aspin,1.5 years,Energetic,Large,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1685,Aspin,2 years,Calm,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1686,Aspin,8 years,Energetic,Small,Special Needs,Condo,Active,No Kids,Yes,Bad Match ❌
+1687,Aspin,5 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1688,Aspin,3 years,Independent,Medium,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1689,Aspin,1.5 years,Independent,Large,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+1690,Aspin,8 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+1691,Aspin,8 years,Aggressive,Small,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1692,Aspin,8 years,Aggressive,Large,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1693,Aspin,2 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1694,Aspin,3 years,Energetic,Small,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+1695,Aspin,5 years,Aggressive,Medium,Chronic Illness,Apartment,Sedentary,With Kids,No,Good Match ✅
+1696,Aspin,1.5 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,No Kids,No,Good Match ✅
+1697,Aspin,3 years,Energetic,Medium,Healthy,House,Active,No Kids,Yes,Good Match ✅
+1698,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1699,Aspin,8 years,Calm,Medium,Healthy,House,Active,No Kids,Yes,Good Match ✅
+1700,Aspin,8 years,Independent,Large,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+1701,Aspin,8 years,Independent,Small,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1702,Aspin,5 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+1703,Aspin,5 years,Calm,Large,Healthy,Condo,Sedentary,With Kids,No,Good Match ✅
+1704,Aspin,2 years,Calm,Medium,Special Needs,Condo,Active,No Kids,No,Good Match ✅
+1705,Aspin,7 years,Energetic,Medium,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1706,Aspin,3 years,Aggressive,Medium,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+1707,Aspin,3 years,Calm,Large,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+1708,Aspin,3 years,Calm,Small,Special Needs,House,Active,No Kids,Yes,Good Match ✅
+1709,Aspin,2 years,Calm,Medium,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+1710,Aspin,3 years,Calm,Medium,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+1711,Aspin,3 years,Calm,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+1712,Aspin,2 years,Energetic,Medium,Healthy,Condo,Active,No Kids,No,Good Match ✅
+1713,Aspin,3 years,Independent,Small,Special Needs,Condo,Sedentary,No Kids,No,Bad Match ❌
+1714,Aspin,2 years,Independent,Small,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+1715,Aspin,2 years,Independent,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1716,Aspin,7 years,Independent,Small,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+1717,Aspin,7 years,Independent,Large,Healthy,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1718,Aspin,2 years,Aggressive,Small,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+1719,Aspin,2 years,Calm,Large,Special Needs,House,Active,With Kids,Yes,Good Match ✅
+1720,Aspin,2 years,Calm,Medium,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1721,Aspin,3 years,Aggressive,Large,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1722,Aspin,7 years,Independent,Small,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1723,Aspin,8 years,Energetic,Large,Special Needs,House,Active,With Kids,No,Good Match ✅
+1724,Aspin,2 years,Aggressive,Medium,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1725,Aspin,7 years,Energetic,Small,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1726,Aspin,1.5 years,Independent,Small,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1727,Aspin,2 years,Independent,Large,Special Needs,House,Sedentary,With Kids,Yes,Bad Match ❌
+1728,Aspin,7 years,Calm,Large,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1729,Aspin,3 years,Energetic,Small,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1730,Aspin,1.5 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+1731,Aspin,3 years,Independent,Large,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+1732,Aspin,5 years,Calm,Medium,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1733,Aspin,3 years,Independent,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+1734,Aspin,3 years,Energetic,Medium,Special Needs,House,Active,No Kids,Yes,Good Match ✅
+1735,Aspin,5 years,Calm,Small,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1736,Aspin,3 years,Calm,Small,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1737,Aspin,7 years,Energetic,Large,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+1738,Aspin,7 years,Independent,Medium,Healthy,House,Sedentary,No Kids,Yes,Bad Match ❌
+1739,Aspin,7 years,Calm,Large,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+1740,Aspin,8 years,Independent,Large,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1741,Aspin,3 years,Calm,Medium,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+1742,Aspin,7 years,Independent,Small,Chronic Illness,House,Active,No Kids,Yes,Bad Match ❌
+1743,Aspin,2 years,Independent,Large,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+1744,Aspin,3 years,Energetic,Small,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1745,Aspin,5 years,Calm,Small,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+1746,Aspin,3 years,Aggressive,Large,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1747,Aspin,2 years,Aggressive,Small,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1748,Aspin,1.5 years,Independent,Medium,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+1749,Aspin,1.5 years,Aggressive,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1750,Aspin,5 years,Independent,Medium,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+1751,Aspin,3 years,Independent,Large,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1752,Aspin,3 years,Calm,Medium,Special Needs,House,Active,With Kids,No,Good Match ✅
+1753,Aspin,2 years,Energetic,Small,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1754,Aspin,7 years,Calm,Medium,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+1755,Aspin,1.5 years,Energetic,Large,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+1756,Aspin,2 years,Calm,Small,Chronic Illness,Condo,Active,With Kids,No,Bad Match ❌
+1757,Aspin,8 years,Calm,Small,Special Needs,Condo,Active,No Kids,No,Good Match ✅
+1758,Aspin,2 years,Aggressive,Large,Special Needs,House,Active,With Kids,No,Good Match ✅
+1759,Aspin,1.5 years,Aggressive,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1760,Aspin,1.5 years,Calm,Small,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+1761,Aspin,5 years,Aggressive,Medium,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+1762,Aspin,5 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1763,Aspin,2 years,Energetic,Small,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+1764,Aspin,2 years,Aggressive,Small,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+1765,Aspin,1.5 years,Independent,Medium,Special Needs,House,Active,No Kids,No,Good Match ✅
+1766,Aspin,2 years,Calm,Medium,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1767,Aspin,8 years,Independent,Small,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+1768,Aspin,8 years,Energetic,Small,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1769,Aspin,3 years,Aggressive,Medium,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+1770,Aspin,2 years,Calm,Large,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1771,Aspin,7 years,Independent,Medium,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1772,Aspin,3 years,Calm,Small,Special Needs,House,Sedentary,With Kids,Yes,Bad Match ❌
+1773,Aspin,8 years,Independent,Small,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1774,Aspin,3 years,Independent,Small,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+1775,Aspin,1.5 years,Calm,Medium,Special Needs,House,Active,No Kids,Yes,Good Match ✅
+1776,Aspin,8 years,Calm,Medium,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1777,Aspin,2 years,Aggressive,Small,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1778,Aspin,1.5 years,Energetic,Medium,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+1779,Aspin,1.5 years,Aggressive,Small,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1780,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1781,Aspin,8 years,Independent,Large,Healthy,House,Active,With Kids,No,Bad Match ❌
+1782,Aspin,7 years,Aggressive,Medium,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+1783,Aspin,7 years,Calm,Large,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+1784,Aspin,3 years,Calm,Small,Special Needs,House,Sedentary,With Kids,Yes,Bad Match ❌
+1785,Aspin,3 years,Independent,Medium,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+1786,Aspin,8 years,Aggressive,Medium,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1787,Aspin,5 years,Calm,Small,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1788,Aspin,2 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+1789,Aspin,1.5 years,Aggressive,Small,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+1790,Aspin,2 years,Independent,Medium,Healthy,House,Active,No Kids,No,Good Match ✅
+1791,Aspin,7 years,Energetic,Medium,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1792,Aspin,8 years,Independent,Medium,Healthy,House,Active,With Kids,No,Bad Match ❌
+1793,Aspin,3 years,Aggressive,Large,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+1794,Aspin,5 years,Aggressive,Small,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1795,Aspin,5 years,Energetic,Medium,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+1796,Aspin,1.5 years,Energetic,Large,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+1797,Aspin,1.5 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1798,Aspin,2 years,Independent,Medium,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1799,Aspin,3 years,Aggressive,Small,Chronic Illness,Condo,Active,No Kids,Yes,Good Match ✅
+1800,Aspin,5 years,Calm,Large,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1801,Aspin,7 years,Independent,Large,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1802,Aspin,7 years,Calm,Medium,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1803,Aspin,2 years,Independent,Small,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+1804,Aspin,8 years,Independent,Medium,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+1805,Aspin,3 years,Calm,Large,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1806,Aspin,7 years,Energetic,Medium,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1807,Aspin,5 years,Calm,Small,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1808,Aspin,1.5 years,Independent,Small,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+1809,Aspin,7 years,Energetic,Large,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+1810,Aspin,8 years,Aggressive,Medium,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+1811,Aspin,8 years,Energetic,Large,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1812,Aspin,5 years,Energetic,Medium,Chronic Illness,Apartment,Sedentary,With Kids,No,Good Match ✅
+1813,Aspin,5 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+1814,Aspin,7 years,Calm,Medium,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1815,Aspin,1.5 years,Energetic,Large,Healthy,House,Sedentary,With Kids,Yes,Bad Match ❌
+1816,Aspin,8 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1817,Aspin,2 years,Aggressive,Small,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+1818,Aspin,3 years,Independent,Large,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+1819,Aspin,1.5 years,Energetic,Medium,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1820,Aspin,7 years,Calm,Medium,Healthy,House,Sedentary,No Kids,Yes,Bad Match ❌
+1821,Aspin,7 years,Calm,Large,Healthy,Condo,Active,With Kids,No,Bad Match ❌
+1822,Aspin,5 years,Energetic,Medium,Chronic Illness,Condo,Active,No Kids,No,Bad Match ❌
+1823,Aspin,2 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1824,Aspin,5 years,Aggressive,Medium,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+1825,Aspin,2 years,Independent,Large,Healthy,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1826,Aspin,3 years,Aggressive,Large,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1827,Aspin,1.5 years,Aggressive,Small,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1828,Aspin,8 years,Energetic,Small,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+1829,Aspin,3 years,Calm,Medium,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+1830,Aspin,1.5 years,Aggressive,Small,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+1831,Aspin,7 years,Aggressive,Large,Special Needs,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1832,Aspin,3 years,Energetic,Small,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1833,Aspin,2 years,Energetic,Large,Special Needs,House,Active,No Kids,No,Good Match ✅
+1834,Aspin,5 years,Energetic,Large,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1835,Aspin,8 years,Calm,Small,Healthy,House,Active,No Kids,No,Bad Match ❌
+1836,Aspin,7 years,Independent,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1837,Aspin,5 years,Independent,Large,Special Needs,Apartment,Active,No Kids,No,Good Match ✅
+1838,Aspin,8 years,Energetic,Small,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1839,Aspin,2 years,Calm,Large,Healthy,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1840,Aspin,5 years,Aggressive,Small,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+1841,Aspin,8 years,Independent,Large,Special Needs,Condo,Sedentary,With Kids,No,Bad Match ❌
+1842,Aspin,2 years,Energetic,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+1843,Aspin,5 years,Calm,Large,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+1844,Aspin,7 years,Independent,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1845,Aspin,5 years,Aggressive,Large,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1846,Aspin,1.5 years,Aggressive,Small,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1847,Aspin,5 years,Calm,Small,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+1848,Aspin,3 years,Aggressive,Medium,Chronic Illness,House,Active,With Kids,Yes,Bad Match ❌
+1849,Aspin,3 years,Calm,Large,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1850,Aspin,5 years,Aggressive,Large,Chronic Illness,Condo,Active,No Kids,Yes,Bad Match ❌
+1851,Aspin,8 years,Energetic,Large,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1852,Aspin,2 years,Aggressive,Large,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1853,Aspin,5 years,Energetic,Small,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+1854,Aspin,1.5 years,Energetic,Small,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1855,Aspin,1.5 years,Calm,Large,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1856,Aspin,8 years,Calm,Small,Healthy,House,Active,With Kids,No,Bad Match ❌
+1857,Aspin,2 years,Energetic,Medium,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1858,Aspin,1.5 years,Aggressive,Small,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+1859,Aspin,3 years,Energetic,Small,Special Needs,House,Active,With Kids,No,Good Match ✅
+1860,Aspin,2 years,Aggressive,Medium,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+1861,Aspin,7 years,Aggressive,Medium,Healthy,Condo,Active,No Kids,No,Good Match ✅
+1862,Aspin,5 years,Energetic,Large,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1863,Aspin,7 years,Energetic,Large,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+1864,Aspin,8 years,Energetic,Large,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1865,Aspin,7 years,Calm,Small,Chronic Illness,Apartment,Sedentary,With Kids,No,Bad Match ❌
+1866,Aspin,3 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1867,Aspin,7 years,Independent,Small,Chronic Illness,Condo,Sedentary,No Kids,No,Bad Match ❌
+1868,Aspin,5 years,Aggressive,Medium,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+1869,Aspin,7 years,Energetic,Medium,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+1870,Aspin,8 years,Aggressive,Small,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+1871,Aspin,8 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1872,Aspin,7 years,Calm,Large,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+1873,Aspin,7 years,Aggressive,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+1874,Aspin,7 years,Independent,Medium,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+1875,Aspin,5 years,Aggressive,Medium,Special Needs,Condo,Active,No Kids,No,Good Match ✅
+1876,Aspin,3 years,Independent,Large,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1877,Aspin,8 years,Independent,Large,Special Needs,Condo,Active,No Kids,Yes,Bad Match ❌
+1878,Aspin,5 years,Calm,Large,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+1879,Aspin,5 years,Aggressive,Large,Healthy,Condo,Active,No Kids,No,Good Match ✅
+1880,Aspin,8 years,Independent,Medium,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1881,Aspin,8 years,Independent,Small,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+1882,Aspin,3 years,Independent,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+1883,Aspin,1.5 years,Calm,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+1884,Aspin,7 years,Energetic,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1885,Aspin,2 years,Energetic,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1886,Aspin,7 years,Energetic,Large,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+1887,Aspin,1.5 years,Energetic,Medium,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1888,Aspin,7 years,Energetic,Large,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1889,Aspin,8 years,Aggressive,Large,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1890,Aspin,1.5 years,Aggressive,Medium,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+1891,Aspin,3 years,Energetic,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+1892,Aspin,8 years,Calm,Small,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+1893,Aspin,8 years,Calm,Large,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1894,Aspin,5 years,Aggressive,Medium,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1895,Aspin,2 years,Calm,Small,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1896,Aspin,8 years,Energetic,Medium,Special Needs,House,Sedentary,With Kids,No,Good Match ✅
+1897,Aspin,3 years,Energetic,Medium,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+1898,Aspin,2 years,Energetic,Small,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+1899,Aspin,1.5 years,Aggressive,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+1900,Aspin,8 years,Calm,Medium,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+1901,Aspin,8 years,Energetic,Medium,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+1902,Aspin,2 years,Independent,Large,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+1903,Aspin,8 years,Aggressive,Small,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+1904,Aspin,1.5 years,Calm,Small,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+1905,Aspin,8 years,Independent,Medium,Chronic Illness,House,Active,With Kids,Yes,Bad Match ❌
+1906,Aspin,1.5 years,Independent,Medium,Chronic Illness,Condo,Active,No Kids,No,Bad Match ❌
+1907,Aspin,7 years,Independent,Large,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+1908,Aspin,8 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1909,Aspin,2 years,Calm,Large,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1910,Aspin,2 years,Energetic,Medium,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1911,Aspin,7 years,Aggressive,Small,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+1912,Aspin,5 years,Aggressive,Small,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+1913,Aspin,2 years,Calm,Medium,Special Needs,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1914,Aspin,5 years,Independent,Medium,Chronic Illness,House,Sedentary,With Kids,No,Bad Match ❌
+1915,Aspin,8 years,Independent,Medium,Chronic Illness,Condo,Sedentary,No Kids,No,Bad Match ❌
+1916,Aspin,7 years,Aggressive,Small,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+1917,Aspin,5 years,Aggressive,Medium,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+1918,Aspin,1.5 years,Aggressive,Small,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1919,Aspin,8 years,Independent,Medium,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+1920,Aspin,7 years,Independent,Small,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+1921,Aspin,1.5 years,Energetic,Large,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+1922,Aspin,3 years,Aggressive,Large,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1923,Aspin,7 years,Independent,Small,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+1924,Aspin,2 years,Calm,Small,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1925,Aspin,2 years,Aggressive,Small,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+1926,Aspin,5 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+1927,Aspin,3 years,Aggressive,Large,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1928,Aspin,7 years,Independent,Large,Special Needs,House,Sedentary,With Kids,No,Good Match ✅
+1929,Aspin,8 years,Independent,Small,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1930,Aspin,3 years,Energetic,Small,Special Needs,Condo,Sedentary,With Kids,No,Bad Match ❌
+1931,Aspin,1.5 years,Independent,Large,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+1932,Aspin,2 years,Aggressive,Medium,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+1933,Aspin,8 years,Calm,Large,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+1934,Aspin,1.5 years,Independent,Medium,Healthy,House,Active,With Kids,No,Bad Match ❌
+1935,Aspin,2 years,Calm,Large,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+1936,Aspin,3 years,Independent,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1937,Aspin,1.5 years,Calm,Medium,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+1938,Aspin,7 years,Independent,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+1939,Aspin,3 years,Calm,Large,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+1940,Aspin,5 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+1941,Aspin,1.5 years,Calm,Small,Chronic Illness,House,Active,With Kids,Yes,Bad Match ❌
+1942,Aspin,7 years,Calm,Small,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1943,Aspin,5 years,Calm,Large,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1944,Aspin,2 years,Aggressive,Medium,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+1945,Aspin,7 years,Aggressive,Medium,Healthy,House,Active,With Kids,Yes,Good Match ✅
+1946,Aspin,1.5 years,Independent,Large,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1947,Aspin,3 years,Calm,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+1948,Aspin,1.5 years,Aggressive,Large,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1949,Aspin,3 years,Aggressive,Large,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+1950,Aspin,1.5 years,Calm,Medium,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+1951,Aspin,7 years,Independent,Medium,Special Needs,House,Active,With Kids,Yes,Good Match ✅
+1952,Aspin,8 years,Calm,Medium,Chronic Illness,Condo,Sedentary,No Kids,No,Good Match ✅
+1953,Aspin,8 years,Energetic,Medium,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+1954,Aspin,8 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+1955,Aspin,1.5 years,Calm,Small,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+1956,Aspin,2 years,Energetic,Large,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+1957,Aspin,2 years,Independent,Medium,Healthy,House,Active,No Kids,No,Bad Match ❌
+1958,Aspin,5 years,Energetic,Small,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+1959,Aspin,3 years,Aggressive,Small,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1960,Aspin,8 years,Independent,Small,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+1961,Aspin,8 years,Calm,Small,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+1962,Aspin,2 years,Calm,Medium,Special Needs,House,Active,No Kids,Yes,Good Match ✅
+1963,Aspin,8 years,Calm,Large,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+1964,Aspin,7 years,Independent,Small,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+1965,Aspin,5 years,Independent,Small,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+1966,Aspin,1.5 years,Energetic,Small,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+1967,Aspin,7 years,Calm,Small,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+1968,Aspin,1.5 years,Independent,Small,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+1969,Aspin,3 years,Independent,Medium,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+1970,Aspin,2 years,Energetic,Small,Special Needs,Apartment,Sedentary,No Kids,No,Bad Match ❌
+1971,Aspin,2 years,Independent,Medium,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+1972,Aspin,5 years,Calm,Medium,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+1973,Aspin,2 years,Energetic,Large,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+1974,Aspin,3 years,Energetic,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1975,Aspin,2 years,Independent,Small,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+1976,Aspin,5 years,Calm,Large,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+1977,Aspin,1.5 years,Aggressive,Large,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+1978,Aspin,2 years,Calm,Large,Healthy,Apartment,Active,No Kids,No,Good Match ✅
+1979,Aspin,1.5 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+1980,Aspin,7 years,Aggressive,Medium,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+1981,Aspin,2 years,Energetic,Large,Healthy,House,Active,No Kids,No,Good Match ✅
+1982,Aspin,2 years,Independent,Large,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+1983,Aspin,3 years,Independent,Small,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+1984,Aspin,7 years,Calm,Large,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1985,Aspin,1.5 years,Aggressive,Large,Healthy,House,Active,With Kids,No,Good Match ✅
+1986,Aspin,1.5 years,Aggressive,Large,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+1987,Aspin,5 years,Energetic,Small,Healthy,House,Active,No Kids,No,Bad Match ❌
+1988,Aspin,5 years,Independent,Medium,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+1989,Aspin,3 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+1990,Aspin,2 years,Energetic,Small,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+1991,Aspin,2 years,Calm,Small,Chronic Illness,Condo,Active,No Kids,Yes,Bad Match ❌
+1992,Aspin,8 years,Energetic,Medium,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+1993,Aspin,2 years,Calm,Large,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+1994,Aspin,1.5 years,Calm,Small,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+1995,Aspin,8 years,Calm,Medium,Healthy,House,Active,No Kids,Yes,Good Match ✅
+1996,Aspin,3 years,Aggressive,Large,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+1997,Aspin,5 years,Energetic,Medium,Special Needs,House,Active,With Kids,No,Bad Match ❌
+1998,Aspin,2 years,Aggressive,Small,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+1999,Aspin,1.5 years,Aggressive,Small,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+2000,Aspin,7 years,Independent,Medium,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+2001,Aspin,1.5 years,Calm,Small,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+2002,Aspin,8 years,Aggressive,Small,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+2003,Aspin,2 years,Calm,Large,Special Needs,House,Sedentary,With Kids,No,Good Match ✅
+2004,Aspin,1.5 years,Independent,Large,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+2005,Aspin,3 years,Aggressive,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+2006,Aspin,1.5 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2007,Aspin,2 years,Independent,Small,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+2008,Aspin,7 years,Independent,Small,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+2009,Aspin,2 years,Aggressive,Large,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+2010,Aspin,5 years,Energetic,Medium,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+2011,Aspin,5 years,Aggressive,Medium,Healthy,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2012,Aspin,8 years,Independent,Large,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+2013,Aspin,7 years,Energetic,Medium,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+2014,Aspin,7 years,Aggressive,Medium,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+2015,Aspin,7 years,Energetic,Small,Chronic Illness,House,Active,No Kids,No,Bad Match ❌
+2016,Aspin,2 years,Energetic,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+2017,Aspin,2 years,Independent,Small,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+2018,Aspin,7 years,Aggressive,Large,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+2019,Aspin,2 years,Aggressive,Large,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2020,Aspin,7 years,Energetic,Small,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2021,Aspin,1.5 years,Independent,Large,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+2022,Aspin,7 years,Aggressive,Large,Special Needs,House,Active,No Kids,No,Bad Match ❌
+2023,Aspin,2 years,Calm,Large,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2024,Aspin,8 years,Aggressive,Medium,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+2025,Aspin,8 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,No,Good Match ✅
+2026,Aspin,8 years,Independent,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2027,Aspin,5 years,Calm,Small,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+2028,Aspin,1.5 years,Energetic,Small,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+2029,Aspin,3 years,Independent,Small,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2030,Aspin,3 years,Independent,Small,Special Needs,Condo,Active,No Kids,No,Good Match ✅
+2031,Aspin,5 years,Energetic,Large,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+2032,Aspin,3 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,No Kids,No,Good Match ✅
+2033,Aspin,8 years,Aggressive,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+2034,Aspin,5 years,Energetic,Small,Healthy,Condo,Sedentary,With Kids,No,Good Match ✅
+2035,Aspin,3 years,Energetic,Small,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+2036,Aspin,5 years,Energetic,Large,Special Needs,House,Active,No Kids,No,Bad Match ❌
+2037,Aspin,8 years,Aggressive,Large,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+2038,Aspin,7 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+2039,Aspin,5 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2040,Aspin,3 years,Aggressive,Large,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+2041,Aspin,5 years,Independent,Large,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+2042,Aspin,7 years,Energetic,Large,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+2043,Aspin,2 years,Energetic,Medium,Healthy,House,Active,With Kids,Yes,Good Match ✅
+2044,Aspin,7 years,Independent,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2045,Aspin,8 years,Energetic,Large,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+2046,Aspin,2 years,Calm,Medium,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+2047,Aspin,1.5 years,Calm,Medium,Healthy,Condo,Active,With Kids,No,Good Match ✅
+2048,Aspin,8 years,Independent,Medium,Chronic Illness,House,Sedentary,With Kids,Yes,Good Match ✅
+2049,Aspin,3 years,Independent,Small,Chronic Illness,House,Sedentary,With Kids,Yes,Good Match ✅
+2050,Aspin,5 years,Independent,Large,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+2051,Aspin,5 years,Energetic,Large,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+2052,Aspin,5 years,Calm,Large,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+2053,Aspin,3 years,Calm,Large,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+2054,Aspin,7 years,Energetic,Large,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+2055,Aspin,8 years,Independent,Medium,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+2056,Aspin,7 years,Aggressive,Large,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+2057,Aspin,5 years,Aggressive,Small,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+2058,Aspin,1.5 years,Energetic,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2059,Aspin,5 years,Aggressive,Large,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+2060,Aspin,5 years,Energetic,Large,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+2061,Aspin,5 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2062,Aspin,5 years,Calm,Large,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2063,Aspin,7 years,Aggressive,Medium,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+2064,Aspin,2 years,Calm,Medium,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+2065,Aspin,2 years,Independent,Large,Healthy,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2066,Aspin,3 years,Energetic,Small,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+2067,Aspin,8 years,Aggressive,Small,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+2068,Aspin,5 years,Energetic,Large,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+2069,Aspin,5 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2070,Aspin,5 years,Calm,Medium,Chronic Illness,Condo,Sedentary,No Kids,No,Good Match ✅
+2071,Aspin,1.5 years,Energetic,Medium,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2072,Aspin,2 years,Energetic,Small,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+2073,Aspin,8 years,Independent,Medium,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+2074,Aspin,3 years,Calm,Medium,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+2075,Aspin,8 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+2076,Aspin,1.5 years,Energetic,Medium,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+2077,Aspin,3 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2078,Aspin,2 years,Energetic,Small,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+2079,Aspin,3 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2080,Aspin,3 years,Energetic,Small,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+2081,Aspin,8 years,Independent,Medium,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+2082,Aspin,1.5 years,Energetic,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+2083,Aspin,8 years,Calm,Large,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+2084,Aspin,8 years,Aggressive,Large,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+2085,Aspin,5 years,Calm,Medium,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+2086,Aspin,3 years,Independent,Small,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+2087,Aspin,7 years,Energetic,Small,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+2088,Aspin,1.5 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2089,Aspin,8 years,Energetic,Medium,Special Needs,Condo,Active,No Kids,No,Good Match ✅
+2090,Aspin,7 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+2091,Aspin,8 years,Energetic,Large,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+2092,Aspin,7 years,Energetic,Small,Healthy,House,Active,With Kids,No,Good Match ✅
+2093,Aspin,3 years,Independent,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2094,Aspin,5 years,Calm,Large,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+2095,Aspin,3 years,Energetic,Small,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+2096,Aspin,7 years,Independent,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+2097,Aspin,2 years,Aggressive,Large,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+2098,Aspin,2 years,Aggressive,Small,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+2099,Aspin,3 years,Calm,Large,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2100,Aspin,1.5 years,Aggressive,Medium,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+2101,Aspin,1.5 years,Independent,Large,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+2102,Aspin,3 years,Aggressive,Large,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+2103,Aspin,5 years,Independent,Small,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+2104,Aspin,3 years,Aggressive,Large,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+2105,Aspin,3 years,Independent,Medium,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+2106,Aspin,8 years,Calm,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2107,Aspin,3 years,Aggressive,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+2108,Aspin,1.5 years,Energetic,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2109,Aspin,7 years,Energetic,Large,Special Needs,Condo,Active,No Kids,Yes,Bad Match ❌
+2110,Aspin,1.5 years,Energetic,Small,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2111,Aspin,1.5 years,Energetic,Medium,Special Needs,Condo,Sedentary,No Kids,No,Bad Match ❌
+2112,Aspin,7 years,Aggressive,Large,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2113,Aspin,2 years,Energetic,Small,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+2114,Aspin,8 years,Aggressive,Large,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+2115,Aspin,7 years,Energetic,Medium,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+2116,Aspin,2 years,Energetic,Medium,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+2117,Aspin,2 years,Calm,Large,Chronic Illness,House,Active,No Kids,Yes,Good Match ✅
+2118,Aspin,3 years,Independent,Small,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2119,Aspin,8 years,Calm,Large,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+2120,Aspin,2 years,Calm,Medium,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+2121,Aspin,3 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+2122,Aspin,5 years,Independent,Large,Chronic Illness,Apartment,Active,With Kids,Yes,Good Match ✅
+2123,Aspin,3 years,Independent,Small,Special Needs,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2124,Aspin,5 years,Energetic,Medium,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+2125,Aspin,8 years,Aggressive,Small,Healthy,House,Active,No Kids,No,Bad Match ❌
+2126,Aspin,2 years,Independent,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+2127,Aspin,5 years,Aggressive,Large,Healthy,House,Sedentary,With Kids,Yes,Bad Match ❌
+2128,Aspin,5 years,Energetic,Large,Healthy,Apartment,Sedentary,No Kids,No,Good Match ✅
+2129,Aspin,5 years,Aggressive,Small,Special Needs,House,Active,With Kids,No,Good Match ✅
+2130,Aspin,1.5 years,Independent,Large,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+2131,Aspin,7 years,Energetic,Medium,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+2132,Aspin,3 years,Aggressive,Medium,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+2133,Aspin,2 years,Calm,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+2134,Aspin,7 years,Energetic,Small,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+2135,Aspin,3 years,Independent,Medium,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2136,Aspin,5 years,Independent,Medium,Special Needs,House,Active,No Kids,No,Good Match ✅
+2137,Aspin,3 years,Aggressive,Small,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2138,Aspin,7 years,Aggressive,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+2139,Aspin,5 years,Aggressive,Medium,Chronic Illness,Condo,Active,With Kids,No,Bad Match ❌
+2140,Aspin,2 years,Calm,Medium,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+2141,Aspin,5 years,Independent,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+2142,Aspin,2 years,Calm,Medium,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+2143,Aspin,3 years,Aggressive,Small,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+2144,Aspin,8 years,Aggressive,Large,Chronic Illness,House,Active,No Kids,No,Bad Match ❌
+2145,Aspin,2 years,Calm,Large,Healthy,Condo,Active,With Kids,No,Bad Match ❌
+2146,Aspin,7 years,Aggressive,Large,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+2147,Aspin,8 years,Energetic,Small,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2148,Aspin,1.5 years,Calm,Large,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+2149,Aspin,1.5 years,Aggressive,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+2150,Aspin,1.5 years,Calm,Small,Special Needs,Condo,Sedentary,No Kids,Yes,Good Match ✅
+2151,Aspin,7 years,Independent,Small,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+2152,Aspin,7 years,Calm,Small,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+2153,Aspin,3 years,Calm,Small,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+2154,Aspin,7 years,Aggressive,Large,Chronic Illness,House,Active,With Kids,Yes,Bad Match ❌
+2155,Aspin,1.5 years,Calm,Large,Chronic Illness,Apartment,Active,No Kids,No,Good Match ✅
+2156,Aspin,3 years,Aggressive,Small,Special Needs,House,Active,No Kids,No,Bad Match ❌
+2157,Aspin,1.5 years,Calm,Medium,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+2158,Aspin,5 years,Energetic,Large,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+2159,Aspin,1.5 years,Calm,Large,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+2160,Aspin,5 years,Calm,Large,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+2161,Aspin,1.5 years,Calm,Small,Healthy,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2162,Aspin,3 years,Independent,Medium,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+2163,Aspin,5 years,Energetic,Small,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+2164,Aspin,8 years,Aggressive,Small,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+2165,Aspin,8 years,Aggressive,Small,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+2166,Aspin,1.5 years,Energetic,Medium,Chronic Illness,Condo,Sedentary,No Kids,No,Good Match ✅
+2167,Aspin,3 years,Independent,Large,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+2168,Aspin,1.5 years,Calm,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2169,Aspin,8 years,Independent,Large,Special Needs,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+2170,Aspin,3 years,Calm,Large,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2171,Aspin,1.5 years,Energetic,Medium,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+2172,Aspin,7 years,Aggressive,Medium,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2173,Aspin,5 years,Calm,Small,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+2174,Aspin,3 years,Calm,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+2175,Aspin,5 years,Energetic,Large,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+2176,Aspin,5 years,Aggressive,Medium,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+2177,Aspin,8 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+2178,Aspin,3 years,Aggressive,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2179,Aspin,2 years,Aggressive,Medium,Healthy,Apartment,Active,No Kids,No,Good Match ✅
+2180,Aspin,1.5 years,Calm,Small,Healthy,Apartment,Active,No Kids,No,Bad Match ❌
+2181,Aspin,5 years,Aggressive,Medium,Chronic Illness,Condo,Active,With Kids,No,Bad Match ❌
+2182,Aspin,7 years,Aggressive,Medium,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+2183,Aspin,5 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+2184,Aspin,8 years,Calm,Small,Healthy,Apartment,Active,No Kids,No,Good Match ✅
+2185,Aspin,1.5 years,Calm,Medium,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+2186,Aspin,3 years,Independent,Large,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2187,Aspin,7 years,Calm,Small,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+2188,Aspin,8 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+2189,Aspin,5 years,Independent,Medium,Healthy,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2190,Aspin,5 years,Energetic,Small,Healthy,Condo,Sedentary,No Kids,Yes,Good Match ✅
+2191,Aspin,3 years,Energetic,Large,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+2192,Aspin,7 years,Aggressive,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2193,Aspin,3 years,Energetic,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2194,Aspin,5 years,Independent,Medium,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+2195,Aspin,2 years,Independent,Medium,Special Needs,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2196,Aspin,5 years,Energetic,Medium,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+2197,Aspin,8 years,Energetic,Small,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+2198,Aspin,8 years,Independent,Medium,Healthy,House,Sedentary,No Kids,Yes,Bad Match ❌
+2199,Aspin,8 years,Aggressive,Small,Chronic Illness,Condo,Active,No Kids,Yes,Good Match ✅
+2200,Aspin,8 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+2201,Aspin,7 years,Independent,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2202,Aspin,3 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+2203,Aspin,8 years,Calm,Medium,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+2204,Aspin,1.5 years,Calm,Small,Special Needs,Condo,Active,No Kids,Yes,Bad Match ❌
+2205,Aspin,7 years,Calm,Small,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+2206,Aspin,7 years,Energetic,Medium,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+2207,Aspin,8 years,Calm,Large,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2208,Aspin,7 years,Energetic,Medium,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+2209,Aspin,7 years,Calm,Small,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2210,Aspin,5 years,Independent,Medium,Healthy,House,Active,With Kids,No,Bad Match ❌
+2211,Aspin,5 years,Calm,Medium,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2212,Aspin,7 years,Independent,Large,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+2213,Aspin,3 years,Independent,Large,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+2214,Aspin,3 years,Independent,Small,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+2215,Aspin,7 years,Aggressive,Small,Special Needs,House,Active,No Kids,No,Bad Match ❌
+2216,Aspin,7 years,Independent,Medium,Chronic Illness,House,Sedentary,No Kids,Yes,Bad Match ❌
+2217,Aspin,8 years,Calm,Small,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+2218,Aspin,8 years,Energetic,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+2219,Aspin,2 years,Energetic,Medium,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+2220,Aspin,7 years,Calm,Medium,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+2221,Aspin,3 years,Aggressive,Large,Chronic Illness,Condo,Active,No Kids,Yes,Good Match ✅
+2222,Aspin,7 years,Independent,Small,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+2223,Aspin,2 years,Energetic,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2224,Aspin,1.5 years,Calm,Small,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+2225,Aspin,3 years,Aggressive,Large,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+2226,Aspin,3 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,No,Good Match ✅
+2227,Aspin,8 years,Calm,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2228,Aspin,1.5 years,Calm,Medium,Chronic Illness,House,Active,No Kids,Yes,Bad Match ❌
+2229,Aspin,5 years,Energetic,Small,Healthy,House,Sedentary,With Kids,Yes,Bad Match ❌
+2230,Aspin,2 years,Aggressive,Large,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+2231,Aspin,3 years,Aggressive,Medium,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+2232,Aspin,5 years,Energetic,Large,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+2233,Aspin,2 years,Aggressive,Small,Chronic Illness,Condo,Sedentary,No Kids,No,Bad Match ❌
+2234,Aspin,5 years,Aggressive,Medium,Healthy,House,Active,With Kids,No,Bad Match ❌
+2235,Aspin,1.5 years,Energetic,Small,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+2236,Aspin,1.5 years,Energetic,Small,Chronic Illness,House,Sedentary,With Kids,Yes,Good Match ✅
+2237,Aspin,7 years,Aggressive,Small,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+2238,Aspin,5 years,Calm,Medium,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2239,Aspin,3 years,Independent,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+2240,Aspin,8 years,Calm,Small,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2241,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Condo,Active,With Kids,No,Bad Match ❌
+2242,Aspin,2 years,Calm,Medium,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+2243,Aspin,5 years,Independent,Medium,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+2244,Aspin,2 years,Independent,Large,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+2245,Aspin,7 years,Independent,Large,Chronic Illness,House,Active,No Kids,Yes,Good Match ✅
+2246,Aspin,7 years,Energetic,Large,Chronic Illness,House,Sedentary,With Kids,No,Bad Match ❌
+2247,Aspin,1.5 years,Energetic,Medium,Healthy,Condo,Sedentary,With Kids,No,Good Match ✅
+2248,Aspin,5 years,Aggressive,Large,Healthy,House,Active,With Kids,No,Good Match ✅
+2249,Aspin,8 years,Calm,Small,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+2250,Aspin,5 years,Independent,Large,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+2251,Aspin,5 years,Independent,Medium,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+2252,Aspin,3 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+2253,Aspin,1.5 years,Calm,Medium,Healthy,Apartment,Sedentary,With Kids,No,Good Match ✅
+2254,Aspin,5 years,Calm,Medium,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+2255,Aspin,2 years,Calm,Small,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+2256,Aspin,2 years,Aggressive,Large,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+2257,Aspin,8 years,Energetic,Medium,Special Needs,House,Sedentary,With Kids,Yes,Bad Match ❌
+2258,Aspin,1.5 years,Aggressive,Large,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+2259,Aspin,1.5 years,Energetic,Medium,Special Needs,House,Sedentary,No Kids,Yes,Bad Match ❌
+2260,Aspin,8 years,Calm,Medium,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2261,Aspin,7 years,Independent,Medium,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+2262,Aspin,5 years,Independent,Medium,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+2263,Aspin,8 years,Energetic,Medium,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+2264,Aspin,8 years,Energetic,Large,Healthy,House,Active,No Kids,No,Good Match ✅
+2265,Aspin,5 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2266,Aspin,2 years,Calm,Small,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+2267,Aspin,2 years,Calm,Large,Chronic Illness,Condo,Active,No Kids,No,Bad Match ❌
+2268,Aspin,3 years,Calm,Large,Healthy,Apartment,Active,With Kids,No,Good Match ✅
+2269,Aspin,1.5 years,Calm,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+2270,Aspin,5 years,Aggressive,Small,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+2271,Aspin,7 years,Calm,Medium,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2272,Aspin,3 years,Aggressive,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2273,Aspin,2 years,Calm,Medium,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+2274,Aspin,5 years,Energetic,Small,Chronic Illness,House,Sedentary,With Kids,No,Good Match ✅
+2275,Aspin,5 years,Calm,Large,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2276,Aspin,3 years,Calm,Medium,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2277,Aspin,7 years,Calm,Small,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+2278,Aspin,8 years,Independent,Large,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+2279,Aspin,3 years,Independent,Medium,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+2280,Aspin,7 years,Energetic,Large,Healthy,House,Active,No Kids,No,Good Match ✅
+2281,Aspin,8 years,Calm,Medium,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+2282,Aspin,5 years,Aggressive,Medium,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+2283,Aspin,5 years,Independent,Large,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+2284,Aspin,5 years,Independent,Large,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+2285,Aspin,1.5 years,Calm,Medium,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2286,Aspin,5 years,Independent,Small,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+2287,Aspin,1.5 years,Calm,Small,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+2288,Aspin,5 years,Aggressive,Small,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+2289,Aspin,7 years,Calm,Medium,Chronic Illness,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2290,Aspin,2 years,Energetic,Medium,Chronic Illness,House,Active,No Kids,Yes,Good Match ✅
+2291,Aspin,8 years,Aggressive,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+2292,Aspin,1.5 years,Aggressive,Medium,Special Needs,House,Active,With Kids,Yes,Good Match ✅
+2293,Aspin,7 years,Aggressive,Medium,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+2294,Aspin,3 years,Independent,Small,Special Needs,Apartment,Sedentary,No Kids,No,Good Match ✅
+2295,Aspin,3 years,Aggressive,Medium,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+2296,Aspin,2 years,Aggressive,Medium,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+2297,Aspin,1.5 years,Independent,Medium,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+2298,Aspin,2 years,Independent,Medium,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+2299,Aspin,1.5 years,Aggressive,Small,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+2300,Aspin,5 years,Aggressive,Small,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+2301,Aspin,8 years,Aggressive,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2302,Aspin,1.5 years,Aggressive,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2303,Aspin,5 years,Energetic,Small,Special Needs,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2304,Aspin,5 years,Aggressive,Medium,Special Needs,Condo,Sedentary,No Kids,No,Good Match ✅
+2305,Aspin,5 years,Independent,Small,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+2306,Aspin,1.5 years,Calm,Medium,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+2307,Aspin,8 years,Energetic,Large,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+2308,Aspin,2 years,Calm,Small,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+2309,Aspin,1.5 years,Calm,Large,Healthy,House,Active,No Kids,No,Good Match ✅
+2310,Aspin,8 years,Independent,Medium,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2311,Aspin,7 years,Energetic,Large,Healthy,Apartment,Sedentary,No Kids,No,Good Match ✅
+2312,Aspin,3 years,Energetic,Large,Healthy,House,Active,With Kids,Yes,Good Match ✅
+2313,Aspin,8 years,Independent,Small,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+2314,Aspin,5 years,Aggressive,Medium,Healthy,Apartment,Sedentary,No Kids,No,Good Match ✅
+2315,Aspin,2 years,Independent,Medium,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+2316,Aspin,5 years,Energetic,Medium,Chronic Illness,Condo,Active,No Kids,Yes,Bad Match ❌
+2317,Aspin,8 years,Energetic,Small,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+2318,Aspin,7 years,Aggressive,Large,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+2319,Aspin,1.5 years,Calm,Medium,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+2320,Aspin,7 years,Calm,Large,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+2321,Aspin,8 years,Aggressive,Medium,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+2322,Aspin,3 years,Aggressive,Medium,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+2323,Aspin,7 years,Independent,Small,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+2324,Aspin,7 years,Calm,Small,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+2325,Aspin,2 years,Energetic,Large,Chronic Illness,Condo,Sedentary,With Kids,No,Good Match ✅
+2326,Aspin,1.5 years,Independent,Medium,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+2327,Aspin,1.5 years,Aggressive,Medium,Healthy,Condo,Active,With Kids,No,Good Match ✅
+2328,Aspin,8 years,Calm,Medium,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+2329,Aspin,8 years,Energetic,Large,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+2330,Aspin,8 years,Independent,Small,Chronic Illness,Condo,Sedentary,No Kids,No,Bad Match ❌
+2331,Aspin,7 years,Aggressive,Large,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+2332,Aspin,2 years,Calm,Small,Chronic Illness,House,Active,No Kids,No,Good Match ✅
+2333,Aspin,7 years,Energetic,Small,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+2334,Aspin,5 years,Calm,Large,Healthy,Apartment,Active,No Kids,No,Good Match ✅
+2335,Aspin,1.5 years,Independent,Small,Chronic Illness,House,Sedentary,No Kids,No,Good Match ✅
+2336,Aspin,7 years,Aggressive,Small,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2337,Aspin,3 years,Independent,Small,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+2338,Aspin,5 years,Independent,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+2339,Aspin,2 years,Energetic,Small,Healthy,House,Sedentary,With Kids,No,Bad Match ❌
+2340,Aspin,1.5 years,Energetic,Large,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+2341,Aspin,1.5 years,Calm,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2342,Aspin,5 years,Independent,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2343,Aspin,3 years,Energetic,Small,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+2344,Aspin,1.5 years,Calm,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+2345,Aspin,1.5 years,Calm,Medium,Special Needs,House,Active,No Kids,Yes,Bad Match ❌
+2346,Aspin,7 years,Aggressive,Large,Chronic Illness,Condo,Active,With Kids,No,Good Match ✅
+2347,Aspin,3 years,Independent,Medium,Chronic Illness,Condo,Active,With Kids,Yes,Good Match ✅
+2348,Aspin,3 years,Energetic,Large,Special Needs,Condo,Active,No Kids,No,Bad Match ❌
+2349,Aspin,2 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+2350,Aspin,7 years,Aggressive,Small,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+2351,Aspin,2 years,Energetic,Small,Healthy,Condo,Sedentary,No Kids,Yes,Good Match ✅
+2352,Aspin,8 years,Independent,Medium,Special Needs,Condo,Active,No Kids,Yes,Bad Match ❌
+2353,Aspin,2 years,Independent,Large,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+2354,Aspin,8 years,Aggressive,Large,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+2355,Aspin,7 years,Calm,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Bad Match ❌
+2356,Aspin,5 years,Aggressive,Small,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+2357,Aspin,3 years,Calm,Small,Healthy,Condo,Sedentary,With Kids,No,Good Match ✅
+2358,Aspin,2 years,Energetic,Large,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+2359,Aspin,3 years,Calm,Large,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+2360,Aspin,2 years,Energetic,Small,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2361,Aspin,5 years,Energetic,Medium,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+2362,Aspin,3 years,Energetic,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+2363,Aspin,5 years,Calm,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2364,Aspin,7 years,Aggressive,Large,Chronic Illness,House,Sedentary,With Kids,Yes,Good Match ✅
+2365,Aspin,8 years,Independent,Medium,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+2366,Aspin,1.5 years,Aggressive,Large,Chronic Illness,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+2367,Aspin,3 years,Independent,Medium,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+2368,Aspin,1.5 years,Energetic,Large,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+2369,Aspin,1.5 years,Aggressive,Large,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+2370,Aspin,7 years,Aggressive,Large,Special Needs,Apartment,Active,No Kids,No,Bad Match ❌
+2371,Aspin,3 years,Aggressive,Large,Chronic Illness,House,Sedentary,With Kids,No,Bad Match ❌
+2372,Aspin,2 years,Calm,Large,Chronic Illness,House,Active,With Kids,No,Good Match ✅
+2373,Aspin,8 years,Aggressive,Small,Healthy,Condo,Active,With Kids,No,Good Match ✅
+2374,Aspin,5 years,Independent,Small,Chronic Illness,Condo,Active,No Kids,Yes,Bad Match ❌
+2375,Aspin,5 years,Aggressive,Medium,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2376,Aspin,5 years,Energetic,Small,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2377,Aspin,5 years,Aggressive,Medium,Special Needs,Apartment,Active,With Kids,Yes,Bad Match ❌
+2378,Aspin,3 years,Calm,Small,Chronic Illness,House,Sedentary,No Kids,No,Bad Match ❌
+2379,Aspin,2 years,Energetic,Large,Chronic Illness,House,Active,With Kids,No,Bad Match ❌
+2380,Aspin,5 years,Aggressive,Small,Chronic Illness,Apartment,Active,With Kids,No,Bad Match ❌
+2381,Aspin,8 years,Independent,Medium,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+2382,Aspin,8 years,Energetic,Large,Chronic Illness,Condo,Active,No Kids,Yes,Bad Match ❌
+2383,Aspin,7 years,Calm,Large,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+2384,Aspin,3 years,Energetic,Large,Special Needs,Apartment,Active,With Kids,No,Bad Match ❌
+2385,Aspin,1.5 years,Calm,Medium,Chronic Illness,Condo,Active,No Kids,No,Good Match ✅
+2386,Aspin,3 years,Energetic,Small,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2387,Aspin,2 years,Aggressive,Large,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+2388,Aspin,3 years,Independent,Small,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+2389,Aspin,3 years,Calm,Large,Special Needs,Condo,Active,No Kids,Yes,Bad Match ❌
+2390,Aspin,2 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,No,Good Match ✅
+2391,Aspin,8 years,Calm,Small,Healthy,House,Active,No Kids,No,Good Match ✅
+2392,Aspin,5 years,Independent,Small,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2393,Aspin,8 years,Calm,Large,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+2394,Aspin,5 years,Energetic,Small,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+2395,Aspin,2 years,Energetic,Small,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
+2396,Aspin,2 years,Independent,Medium,Special Needs,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2397,Aspin,5 years,Energetic,Large,Special Needs,House,Sedentary,With Kids,No,Good Match ✅
+2398,Aspin,3 years,Independent,Large,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+2399,Aspin,3 years,Energetic,Small,Special Needs,Apartment,Active,No Kids,No,Good Match ✅
+2400,Aspin,2 years,Independent,Medium,Chronic Illness,House,Sedentary,With Kids,No,Bad Match ❌
+2401,Aspin,3 years,Aggressive,Small,Special Needs,Condo,Active,With Kids,No,Bad Match ❌
+2402,Aspin,5 years,Independent,Medium,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+2403,Aspin,8 years,Independent,Medium,Chronic Illness,Condo,Active,No Kids,No,Bad Match ❌
+2404,Aspin,1.5 years,Aggressive,Small,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2405,Aspin,1.5 years,Calm,Large,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+2406,Aspin,8 years,Energetic,Large,Chronic Illness,House,Sedentary,With Kids,Yes,Bad Match ❌
+2407,Aspin,2 years,Energetic,Small,Healthy,Condo,Sedentary,With Kids,No,Bad Match ❌
+2408,Aspin,8 years,Calm,Medium,Special Needs,House,Active,With Kids,No,Good Match ✅
+2409,Aspin,5 years,Independent,Medium,Chronic Illness,Condo,Sedentary,No Kids,Yes,Good Match ✅
+2410,Aspin,1.5 years,Calm,Medium,Special Needs,Apartment,Active,No Kids,Yes,Bad Match ❌
+2411,Aspin,8 years,Energetic,Medium,Healthy,Apartment,Active,With Kids,No,Bad Match ❌
+2412,Aspin,8 years,Calm,Large,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+2413,Aspin,2 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2414,Aspin,8 years,Energetic,Medium,Special Needs,Apartment,Sedentary,No Kids,Yes,Good Match ✅
+2415,Aspin,5 years,Calm,Large,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2416,Aspin,8 years,Independent,Large,Chronic Illness,Apartment,Active,No Kids,Yes,Good Match ✅
+2417,Aspin,7 years,Independent,Medium,Healthy,House,Sedentary,No Kids,Yes,Good Match ✅
+2418,Aspin,2 years,Calm,Medium,Healthy,Condo,Active,No Kids,Yes,Good Match ✅
+2419,Aspin,3 years,Aggressive,Small,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+2420,Aspin,7 years,Aggressive,Medium,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+2421,Aspin,2 years,Aggressive,Small,Chronic Illness,Apartment,Sedentary,No Kids,No,Bad Match ❌
+2422,Aspin,2 years,Energetic,Large,Healthy,House,Active,With Kids,Yes,Bad Match ❌
+2423,Aspin,1.5 years,Independent,Small,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2424,Aspin,1.5 years,Independent,Large,Chronic Illness,Apartment,Active,With Kids,No,Good Match ✅
+2425,Aspin,7 years,Energetic,Small,Special Needs,Condo,Active,No Kids,Yes,Good Match ✅
+2426,Aspin,3 years,Calm,Large,Healthy,Condo,Active,No Kids,No,Good Match ✅
+2427,Aspin,8 years,Calm,Large,Healthy,Apartment,Active,With Kids,Yes,Bad Match ❌
+2428,Aspin,7 years,Energetic,Small,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+2429,Aspin,7 years,Energetic,Large,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+2430,Aspin,5 years,Calm,Large,Healthy,House,Active,No Kids,Yes,Bad Match ❌
+2431,Aspin,3 years,Independent,Medium,Healthy,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2432,Aspin,5 years,Energetic,Medium,Special Needs,Apartment,Active,With Kids,No,Good Match ✅
+2433,Aspin,7 years,Independent,Large,Healthy,Condo,Active,No Kids,Yes,Bad Match ❌
+2434,Aspin,2 years,Aggressive,Large,Healthy,House,Active,With Kids,No,Good Match ✅
+2435,Aspin,8 years,Aggressive,Medium,Healthy,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2436,Aspin,7 years,Energetic,Large,Chronic Illness,Apartment,Sedentary,No Kids,No,Good Match ✅
+2437,Aspin,2 years,Energetic,Large,Healthy,Apartment,Sedentary,No Kids,No,Bad Match ❌
+2438,Aspin,2 years,Aggressive,Large,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2439,Aspin,2 years,Calm,Large,Special Needs,Condo,Active,No Kids,Yes,Bad Match ❌
+2440,Aspin,8 years,Energetic,Medium,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+2441,Aspin,1.5 years,Calm,Medium,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+2442,Aspin,7 years,Aggressive,Small,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+2443,Aspin,3 years,Energetic,Small,Healthy,Apartment,Sedentary,With Kids,Yes,Bad Match ❌
+2444,Aspin,5 years,Aggressive,Medium,Special Needs,House,Active,With Kids,Yes,Bad Match ❌
+2445,Aspin,2 years,Energetic,Medium,Healthy,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2446,Aspin,7 years,Independent,Small,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+2447,Aspin,5 years,Energetic,Small,Chronic Illness,Condo,Sedentary,No Kids,Yes,Bad Match ❌
+2448,Aspin,7 years,Energetic,Medium,Healthy,Condo,Active,No Kids,No,Good Match ✅
+2449,Aspin,8 years,Calm,Small,Chronic Illness,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2450,Aspin,1.5 years,Energetic,Medium,Special Needs,Apartment,Active,With Kids,Yes,Good Match ✅
+2451,Aspin,8 years,Independent,Small,Chronic Illness,Condo,Sedentary,No Kids,No,Bad Match ❌
+2452,Aspin,2 years,Calm,Medium,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+2453,Aspin,3 years,Aggressive,Large,Chronic Illness,Condo,Sedentary,With Kids,No,Bad Match ❌
+2454,Aspin,2 years,Calm,Medium,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+2455,Aspin,5 years,Aggressive,Large,Healthy,Condo,Sedentary,No Kids,No,Bad Match ❌
+2456,Aspin,7 years,Energetic,Large,Chronic Illness,Apartment,Active,No Kids,Yes,Bad Match ❌
+2457,Aspin,5 years,Energetic,Large,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+2458,Aspin,2 years,Independent,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2459,Aspin,5 years,Energetic,Large,Special Needs,Condo,Sedentary,With Kids,No,Bad Match ❌
+2460,Aspin,5 years,Calm,Large,Chronic Illness,House,Sedentary,No Kids,Yes,Good Match ✅
+2461,Aspin,7 years,Calm,Medium,Healthy,Condo,Sedentary,No Kids,No,Good Match ✅
+2462,Aspin,8 years,Independent,Medium,Chronic Illness,Apartment,Active,With Kids,Yes,Bad Match ❌
+2463,Aspin,1.5 years,Calm,Small,Special Needs,House,Sedentary,No Kids,Yes,Good Match ✅
+2464,Aspin,5 years,Energetic,Small,Healthy,Condo,Sedentary,With Kids,Yes,Bad Match ❌
+2465,Aspin,2 years,Energetic,Small,Special Needs,House,Active,No Kids,No,Bad Match ❌
+2466,Aspin,7 years,Independent,Large,Special Needs,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2467,Aspin,1.5 years,Energetic,Small,Healthy,Apartment,Active,No Kids,Yes,Good Match ✅
+2468,Aspin,7 years,Energetic,Large,Special Needs,Apartment,Sedentary,With Kids,Yes,Good Match ✅
+2469,Aspin,5 years,Independent,Medium,Chronic Illness,Condo,Sedentary,With Kids,Yes,Good Match ✅
+2470,Aspin,5 years,Aggressive,Small,Chronic Illness,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2471,Aspin,3 years,Independent,Small,Special Needs,House,Sedentary,With Kids,Yes,Good Match ✅
+2472,Aspin,1.5 years,Energetic,Small,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+2473,Aspin,8 years,Aggressive,Small,Healthy,House,Sedentary,No Kids,No,Good Match ✅
+2474,Aspin,5 years,Calm,Medium,Special Needs,House,Sedentary,With Kids,No,Bad Match ❌
+2475,Aspin,2 years,Energetic,Large,Special Needs,Condo,Active,With Kids,No,Good Match ✅
+2476,Aspin,2 years,Aggressive,Medium,Chronic Illness,House,Sedentary,With Kids,No,Bad Match ❌
+2477,Aspin,3 years,Calm,Small,Healthy,House,Active,With Kids,No,Bad Match ❌
+2478,Aspin,2 years,Calm,Large,Special Needs,Condo,Sedentary,With Kids,No,Good Match ✅
+2479,Aspin,8 years,Calm,Small,Healthy,House,Sedentary,With Kids,No,Good Match ✅
+2480,Aspin,1.5 years,Energetic,Small,Special Needs,Condo,Active,With Kids,Yes,Good Match ✅
+2481,Aspin,3 years,Calm,Medium,Healthy,Apartment,Sedentary,No Kids,Yes,Bad Match ❌
+2482,Aspin,8 years,Energetic,Medium,Special Needs,Condo,Active,With Kids,Yes,Bad Match ❌
+2483,Aspin,2 years,Independent,Small,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+2484,Aspin,8 years,Energetic,Medium,Healthy,Apartment,Active,With Kids,Yes,Good Match ✅
+2485,Aspin,7 years,Aggressive,Medium,Healthy,Condo,Active,With Kids,Yes,Good Match ✅
+2486,Aspin,3 years,Calm,Medium,Healthy,Condo,Active,No Kids,No,Bad Match ❌
+2487,Aspin,8 years,Aggressive,Large,Chronic Illness,Apartment,Active,No Kids,No,Bad Match ❌
+2488,Aspin,7 years,Energetic,Medium,Special Needs,House,Sedentary,No Kids,No,Good Match ✅
+2489,Aspin,8 years,Aggressive,Large,Special Needs,Apartment,Active,No Kids,Yes,Good Match ✅
+2490,Aspin,5 years,Calm,Small,Special Needs,House,Sedentary,No Kids,No,Bad Match ❌
+2491,Aspin,8 years,Energetic,Medium,Healthy,House,Sedentary,No Kids,No,Bad Match ❌
+2492,Aspin,7 years,Energetic,Medium,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+2493,Aspin,1.5 years,Aggressive,Medium,Special Needs,Apartment,Sedentary,No Kids,No,Bad Match ❌
+2494,Aspin,2 years,Independent,Small,Healthy,House,Sedentary,With Kids,Yes,Good Match ✅
+2495,Aspin,8 years,Aggressive,Small,Chronic Illness,Condo,Active,With Kids,Yes,Bad Match ❌
+2496,Aspin,2 years,Aggressive,Large,Chronic Illness,House,Active,With Kids,Yes,Good Match ✅
+2497,Aspin,5 years,Independent,Medium,Chronic Illness,Apartment,Sedentary,With Kids,No,Bad Match ❌
+2498,Aspin,1.5 years,Energetic,Small,Healthy,Apartment,Active,No Kids,Yes,Bad Match ❌
+2499,Aspin,5 years,Aggressive,Medium,Healthy,Condo,Active,With Kids,Yes,Bad Match ❌
